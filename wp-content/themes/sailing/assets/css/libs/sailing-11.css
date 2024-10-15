@@ -1,0 +1,875 @@
+body:not(.home) h1 {
+  font-size: var(--thim_font_h2-font-size);
+}
+
+@media (max-width: 1024px) {
+  h1 {
+    font-size: var(--thim_font_h2-font-size);
+  }
+  h2 {
+    font-size: var(--thim_font_h3-font-size);
+  }
+  h3 {
+    font-size: var(--thim_font_h4-font-size);
+  }
+}
+.sailing-11 form.hb-select-extra-results .hb_button {
+  padding: 10px 15px;
+}
+.sailing-11.post-type-archive-hb_room {
+  background-color: var(--thim_body_bg_color);
+}
+.sailing-11.woocommerce-cart .entry-content .woocommerce .woocommerce-cart-form .shop_table .product-remove .remove {
+  font-weight: 300;
+}
+.sailing-11.woocommerce-cart .entry-content .woocommerce .woocommerce-cart-form .shop_table .actions .coupon .input-text {
+  padding: 11px 25px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11.woocommerce-cart .entry-content .woocommerce .woocommerce-cart-form .shop_table .actions .button {
+  padding: 11px 25px !important;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11.woocommerce-cart .cart-collaterals a.checkout-button {
+  padding: 11px 50px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11.woocommerce-checkout .checkout_coupon .form-row .input-text {
+  padding: 11px 25px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11.woocommerce-checkout .checkout_coupon .form-row.form-row-last .button {
+  padding: 11px 16px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11.woocommerce-checkout .checkout .woocommerce-billing-fields .form-row select {
+  padding: 10px 32px 10px 16px !important;
+  background-position-x: 96% !important;
+  background-position-y: 19px !important;
+  background-size: 12px !important;
+}
+.sailing-11.woocommerce-checkout #payment #place_order {
+  padding: 11px 25px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11 .woocommerce form .form-row input.input-text, .sailing-11.woocommerce-page form .form-row input.input-text {
+  padding: 15px 25px;
+  height: 44px;
+  line-height: 1.4;
+}
+.sailing-11 .woocommerce form .form-row textarea, .sailing-11.woocommerce-page form .form-row textarea {
+  padding: 15px 25px;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .summary-content form.cart .button {
+  line-height: 1;
+  text-transform: capitalize;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .summary-content .cart.variations_form .variations tbody tr td.value select {
+  padding: 5px 32px 5px 16px !important;
+  background-position-x: 94% !important;
+  background-position-y: 17px !important;
+  background-size: 11px !important;
+}
+.sailing-11 .hb-select-extra-results .hb_addition_packages {
+  border-radius: var(--thim_border_radius-item-big);
+}
+.sailing-11 .wcbt-product-quick-view.active .loading-icon {
+  background-color: #000 !important;
+  background: #000 !important;
+  color: #000 !important;
+  width: 24px;
+  height: 24px;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-prev,
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-next {
+  display: block !important;
+  opacity: 1;
+  overflow: visible;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-prev::before,
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-next::before {
+  font-family: thim-ekits !important;
+  speak: never;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  background: rgb(232, 237, 241);
+  width: 48px;
+  height: 48px;
+  display: inline-flex;
+  border-radius: 200px;
+  font-size: 24px;
+  align-items: center;
+  justify-content: center;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-prev {
+  left: 24px;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-prev::before {
+  content: "\f104";
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-next {
+  right: 48px;
+}
+.sailing-11 #wcbt-quick-view-popup .wcbt-quick-view-container .wcbt-quickview-content .product > .images .wcbt-quick-view-img .slick-next::before {
+  content: "\f105";
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .filter-button-toggle-wp {
+  position: relative;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct span.wctb-count-filter {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: red;
+  padding: 0 6px;
+  border-radius: 200px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .show-filter-toggle .wrapper-search-fields {
+  border-width: 1.5px;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .wrapper-search-fields .wrapper {
+  padding: 24px 16px;
+  border-bottom: 1.5px solid #e8edf1;
+  width: 100%;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .wrapper-search-fields .wrapper:last-child {
+  border-bottom: 0;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .noUi-horizontal {
+  height: 4px;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .noUi-horizontal .noUi-handle {
+  height: 15px;
+  width: 15px;
+  border-radius: 20px;
+  top: -7px;
+  cursor: pointer;
+  border: 0;
+  box-shadow: none;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .noUi-horizontal .noUi-handle .noUi-handle.noUi-handle-lower {
+  right: -23px;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .price .show-price {
+  margin-bottom: 20px;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .noUi-handle:after,
+.sailing-11 .elementor-widget-wcbt-filterproduct .noUi-handle:before {
+  display: none;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .wcbt-product-filter-selection .list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .item input::after {
+  color: #fff;
+  top: 63% !important;
+}
+.sailing-11 .elementor-widget-wcbt-filterproduct .rating input:checked::after {
+  color: #fff;
+  margin-top: 4px;
+}
+.sailing-11 .thim-ekits-archive-product .woocommerce-ordering {
+  margin-bottom: 30px;
+}
+.sailing-11 .thim-ekits-archive-product .woocommerce-ordering h6 {
+  color: var(--thim_font_body-color);
+  font-weight: 600;
+}
+.sailing-11 .thim-ekits-archive-product .woocommerce-ordering select {
+  /*height: 48px;*/
+  padding: 12px 16px 12px 19px;
+  border-radius: 8px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTciIHZpZXdCb3g9IjAgMCAxNiAxNyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgaWQ9Ikljb24iPgo8cGF0aCBpZD0iVmVjdG9yIiBkPSJNNCA2LjVMOCAxMC41TDEyIDYuNSIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L2c+Cjwvc3ZnPgo=) !important;
+  background-repeat: no-repeat !important;
+  background-position-x: 94% !important;
+  background-position-y: 13px !important;
+  background-size: 24px 22px !important;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 226px;
+  color: #121212;
+}
+.sailing-11 .thim-ekits-archive-product .navigation {
+  border-top: 0;
+  margin-top: 64px;
+}
+.sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers {
+  border-radius: 200px;
+  padding: 14px 14px;
+  width: 48px;
+  height: 48px;
+  line-height: 1.07;
+  border: 1px solid transparent;
+}
+.sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers.current, .sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers:hover {
+  background: var(--thim_body_primary_color, #01aa90);
+  color: #fff;
+  border-color: var(--thim_body_primary_color, #01aa90);
+}
+.sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers.next, .sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers.prev {
+  border-color: #aaafb6;
+}
+.sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers.next i, .sailing-11 .thim-ekits-archive-product .navigation ul li .page-numbers.prev i {
+  line-height: 1;
+}
+.sailing-11 .thim-ekits-archive-product .navigation {
+  margin-bottom: 0;
+}
+.sailing-11 .thim-ekits-archive-product .page-numbers.prev:hover,
+.sailing-11 .thim-ekits-archive-product .page-numbers.next:hover {
+  background: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
+}
+.sailing-11 .thim-ekits-archive-product .woocommerce-result-count {
+  position: absolute;
+  right: 20%;
+  top: 16px;
+  margin-bottom: 0 !important;
+}
+.sailing-11 .thim-ekits-archive-product .woocommerce-no-products-found {
+  margin-top: 80px;
+}
+.sailing-11 .thim-ekits-archive-product .loop-pagination {
+  margin-top: 24px;
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers {
+  border-radius: 200px;
+  padding: 14px 14px;
+  width: 48px;
+  height: 48px;
+  line-height: 1.07;
+  border: 1px solid transparent;
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.current,
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers:hover {
+  background: var(--thim_body_primary_color, #01aa90);
+  color: #fff;
+  border-color: var(--thim_body_primary_color, #01aa90);
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.next,
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.prev {
+  border-color: #aaafb6;
+  font-size: 0;
+  position: relative;
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.next:before,
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.prev:before {
+  font-family: thim-ekits !important;
+  font-weight: 400;
+  line-height: 1;
+  font-size: 16px;
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.next:before {
+  content: "\f105";
+}
+.sailing-11 .thim-ekits-archive-product .pagination li .page-numbers.prev:before {
+  content: "\f104";
+}
+@media (max-width: 1025px) {
+  .sailing-11 .thim-ekits-archive-product .woocommerce-result-count {
+    right: 32%;
+  }
+}
+@media (max-width: 880px) {
+  .sailing-11 .thim-ekits-archive-product .woocommerce-result-count {
+    right: 34%;
+  }
+}
+@media (max-width: 768px) {
+  .sailing-11 .thim-ekits-archive-product .woocommerce-result-count {
+    right: 34%;
+  }
+}
+@media (max-width: 767px) {
+  .sailing-11 .thim-ekits-archive-product .woocommerce-ordering {
+    float: left !important;
+  }
+  .sailing-11 .thim-ekits-archive-product .woocommerce-result-count {
+    display: none;
+  }
+  .sailing-11 .thim-ekits-archive-product .show-filter-toggle .close-filter-product {
+    display: block;
+    margin: 20px;
+  }
+}
+.sailing-11 .elementor-widget-thim-ekits-product-image ul li a {
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+}
+.sailing-11 .elementor-widget-thim-ekits-product-image .ekits-product-thumbnails__wrapper .product-image-thumbnail {
+  opacity: 1;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-image .ekits-product-thumbnails__wrapper .woocommerce-product-gallery__image img {
+  width: 100%;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-image .ekits-product-thumbnails__wrapper .flex-direction-nav a {
+  margin-left: -30px;
+  opacity: 0;
+  transition: all 0.3s;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-image .ekits-product-thumbnails__wrapper:hover .flex-direction-nav a {
+  margin-left: 0;
+  margin-right: 0;
+  opacity: 1;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .thim-ekit-single-product__add-to-cart form.cart {
+  flex-wrap: wrap;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart .variations,
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart .variations th,
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart .variations td {
+  border: 0;
+  width: 100%;
+  display: block;
+  text-align: left;
+  padding: 0;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart .variations tbody {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 24px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart .variations tbody tr {
+  width: 50%;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart form.cart table.variations td.value select {
+  padding: 11px 44px 11px 16px;
+  width: 100%;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTciIHZpZXdCb3g9IjAgMCAxNiAxNyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgaWQ9Ikljb24iPgo8cGF0aCBpZD0iVmVjdG9yIiBkPSJNNCA2LjVMOCAxMC41TDEyIDYuNSIgc3Ryb2tlPSIjNDQ0NDQ0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L2c+Cjwvc3ZnPgo=) !important;
+  background-repeat: no-repeat !important;
+  background-position-x: 95% !important;
+  background-position-y: 15px !important;
+  background-size: 18px 16px !important;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .single_variation_wrap .woocommerce-variation-add-to-cart {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .single_variation_wrap {
+  width: 100%;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .woocommerce-variation-add-to-cart .quantity,
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .cart .quantity {
+  width: 119px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .woocommerce-variation-add-to-cart .button,
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .cart .button {
+  width: calc(100% - 143px);
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .cart button {
+  height: 44px;
+  font-size: 16px !important;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .thim-ekit-single-product__add-to-cart form.cart:not(.variations_form) {
+  gap: 24px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .single_variation p {
+  margin-bottom: 24px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart .quantity-add-value {
+  height: 44px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-add-to-cart a.reset_variations {
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs ul {
+  margin: 0;
+  list-style: none;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .shop_attributes th {
+  border-width: 1px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-product-attributes-item__value {
+  padding: 0 8px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs ul.wc-tabs li a {
+  border-width: 1.5px 0 1.5px 1.5px !important;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs ul.wc-tabs li:last-child a {
+  border-width: 1.5px !important;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs ul.wc-tabs li:first-child a {
+  border-radius: 8px 0 0 8px;
+  border-right: 0;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs ul.wc-tabs li:last-child a {
+  border-radius: 0 8px 8px 0;
+  border-left: 0;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .panel {
+  border: 0;
+  box-shadow: unset;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .panel h2 {
+  display: none;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs #reviews #comments ol.commentlist li img.avatar {
+  border-radius: 50%;
+  border: 0;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs #review_form #respond .form-submit input,
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-page #review_form #respond .form-submit input {
+  border-radius: 200px;
+  padding: 14px 40px 14px 40px;
+  color: #fff;
+  box-shadow: unset !important;
+  letter-spacing: 0;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .star-rating {
+  width: 100px;
+  letter-spacing: 4px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .star-rating:before,
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .star-rating span,
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-respond .comment-form-rating p.stars a {
+  color: #fc961b;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce .star-rating span::before,
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-page .star-rating span::before {
+  color: #fc961b;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-respond .comment-form {
+  max-width: 100%;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-respond .comment-form-author,
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-respond .comment-form-email {
+  max-width: 50%;
+  display: inline-block;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs #review_form #respond p {
+  margin: 0 0 16px;
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs #reviews #review_form_wrapper .comment-form .form-submit .submit {
+  border: 0;
+  border-radius: 200px;
+  padding: 12px 35px;
+  background-color: var(--thim_body_primary_color, #01aa90);
+}
+.sailing-11 .elementor-widget-thim-ekits-product-tabs .woocommerce-tabs #reviews #review_form_wrapper .comment-form .form-submit .submit:hover {
+  background-color: var(--thim_body_primary_second_color, #019982);
+}
+@media (max-width: 1024px) {
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-notes span {
+    display: block;
+  }
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-notes span .required {
+    display: inline-block;
+  }
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs .comment-notes span.required-field-message {
+    text-wrap: nowrap;
+  }
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs p.comment-form-cookies-consent {
+    display: inline-flex;
+    align-items: flex-start;
+  }
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs #wp-comment-cookies-consent {
+    margin-top: 4px;
+  }
+}
+@media (max-width: 1024px) {
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs .thim-ekit-single-product__tabs.product-tabs-tabs ul.tabs.wc-tabs {
+    flex-wrap: wrap;
+  }
+  .sailing-11 .elementor-widget-thim-ekits-product-tabs .additional_information_tab {
+    display: none;
+  }
+}
+.sailing-11 #hotel-booking-search-filter .search-filter-form .hb-search-price .hb-price-range .noUi-base {
+  width: calc(100% - 15px);
+  margin-left: auto;
+  margin-right: auto;
+}
+.sailing-11 select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M13 6L8 11L3 6' stroke='%23121212' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 96% 50%;
+}
+.sailing-11 .loop-pagination .page-numbers,
+.sailing-11 .hb-room-archive__pagination .page-numbers,
+.sailing-11 .thim-ekit-archive-post__pagination .page-numbers {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.sailing-11 .loop-pagination .next,
+.sailing-11 .loop-pagination .prev,
+.sailing-11 .hb-room-archive__pagination .next,
+.sailing-11 .hb-room-archive__pagination .prev,
+.sailing-11 .thim-ekit-archive-post__pagination .next,
+.sailing-11 .thim-ekit-archive-post__pagination .prev {
+  border: 2px solid #aaafb6 !important;
+}
+.sailing-11 .loop-pagination .next:hover,
+.sailing-11 .loop-pagination .prev:hover,
+.sailing-11 .hb-room-archive__pagination .next:hover,
+.sailing-11 .hb-room-archive__pagination .prev:hover,
+.sailing-11 .thim-ekit-archive-post__pagination .next:hover,
+.sailing-11 .thim-ekit-archive-post__pagination .prev:hover {
+  border-color: var(--thim_body_border_color) !important;
+  background-color: var(--thim_body_border_color) !important;
+  color: #aaafb6 !important;
+}
+.sailing-11 .thim-ekits-button a,
+.sailing-11 .iconbox-read a,
+.sailing-11 .elementor-widget-thim-loop-item-read-more a,
+.sailing-11 .gallery-filter a {
+  transition: 0.3s;
+}
+.sailing-11 .thim-ekits-button a:hover,
+.sailing-11 .iconbox-read a:hover,
+.sailing-11 .elementor-widget-thim-loop-item-read-more a:hover,
+.sailing-11 .gallery-filter a:hover {
+  transform: translateY(-5px);
+}
+.sailing-11 .elementor-widget-thim-loop-item-featured-image a,
+.sailing-11 .elementor-widget-thim-loop-item-featured-image .elementor-widget-container {
+  overflow: hidden;
+  display: block;
+  border-radius: 16px 16px 0 0;
+}
+.sailing-11 .elementor-widget-thim-loop-item-featured-image a:hover img,
+.sailing-11 .elementor-widget-thim-loop-item-featured-image .elementor-widget-container:hover img {
+  -webkit-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  transform: scale(1.07);
+  color: #aaafb6 !important;
+}
+.sailing-11 img {
+  transition: 0.4s ease-in-out;
+}
+.sailing-11 ul.products li.product a img {
+  margin: 0;
+}
+.sailing-11 .boxes-icon {
+  overflow: hidden;
+}
+.sailing-11 .boxes-icon:hover img {
+  -webkit-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  transform: scale(1.07);
+}
+.sailing-11 .list_image a {
+  overflow: hidden;
+  border-radius: 16px;
+}
+.sailing-11 .list_image a:hover img {
+  -webkit-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  transform: scale(1.07);
+}
+.sailing-11 .hotel-booking-search-filter .search-filter-form-el.hb-filter-popup {
+  transform: translateY(20px);
+  transition: 0.3s;
+  opacity: 0;
+  visibility: hidden;
+  display: block;
+  z-index: 0;
+  height: 0;
+}
+.sailing-11 .hotel-booking-search-filter.filter-popup-show .search-filter-form-el.hb-filter-popup {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+  z-index: 99;
+  height: auto;
+}
+.sailing-11 input[type=checkbox]:checked::before {
+  content: "\f00c";
+  font-family: thim-ekits !important;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  font-size: 10px !important;
+}
+.sailing-11 .hotel-booking-search-filter input[type=checkbox] {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.sailing-11 .hotel-booking-search-filter input[type=checkbox]::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sailing-11 .hotel-booking-search-filter input[type=checkbox]:hover {
+  background-color: var(--thim_body_primary_color, #ffb606);
+}
+.sailing-11 .hotel-booking-search-filter input[type=checkbox]:checked {
+  border: none;
+}
+.sailing-11 .hotel-booking-search-filter input[type=checkbox]:checked::before {
+  color: #fff;
+  background-color: var(--thim_body_primary_color, #ffb606);
+}
+.sailing-11 .hb-select-extra-results .hb_extra_optional_right input,
+.sailing-11 .hb_addition_package_extra input {
+  position: relative;
+}
+.sailing-11 .hb-select-extra-results .hb_extra_optional_right input:checked,
+.sailing-11 .hb_addition_package_extra input:checked {
+  border: none;
+}
+.sailing-11 .hb-select-extra-results .hb_extra_optional_right input:checked:before,
+.sailing-11 .hb_addition_package_extra input:checked:before {
+  content: "\f00c" !important;
+  color: #fff;
+  background-color: var(--thim_body_primary_color, #ffb606);
+  margin: 0;
+  font-family: FontAwesome;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  width: 18px;
+  height: 18px;
+  font-size: 13px;
+  align-items: center;
+  justify-content: center;
+}
+.sailing-11 .hb_addition_packages .hb_package_title label {
+  font-weight: var(--thim_font_title-variant);
+  color: var(--thim_font_title-color);
+  font-size: var(--thim_font_h5-font-size);
+}
+.sailing-11 .hb-room-single__booking__form #hotel_booking_room_hidden .hb-booking-room-form-footer {
+  margin: 0;
+  padding-top: 20px;
+}
+.sailing-11 .hotel-booking-search-el .fa {
+  font-family: thim-ekits !important;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  font-size: 0.875em;
+}
+.sailing-11 .hotel-booking-search-el .fa.fa-minus::before {
+  content: "\f068";
+}
+.sailing-11 .hotel-booking-search-el .fa.fa-plus::before {
+  content: "\f067";
+}
+.sailing-11 .hotel-booking-search-el .hb-form-number select {
+  font-weight: var(--thim_font_title-variant);
+  color: var(--thim_font_title-color);
+}
+.sailing-11 input[type=number]::placeholder,
+.sailing-11 input[type=text]::placeholder,
+.sailing-11 input[type=email]::placeholder,
+.sailing-11 input[type=tel]::placeholder,
+.sailing-11 input[type=date]::placeholder {
+  color: #aaafb6 !important;
+}
+.sailing-11.single-product .thim-ekit-single-product__rating .star-rating {
+  letter-spacing: 4px;
+  width: 100px;
+}
+.sailing-11.single-product .thim-ekit-single-product__rating .woocommerce-review-link {
+  margin-top: 5px;
+}
+@media (max-width: 1440px) {
+  .sailing-11.single-product .thim-ekit-single-product__rating .woocommerce-review-link {
+    margin-top: 3px;
+  }
+}
+.sailing-11 .woocommerce-notices-wrapper .button {
+  padding: 11px 50px;
+  height: 44px;
+  line-height: 1.4;
+  border-radius: var(--thim_border_radius-button, 0);
+  margin: 0;
+  color: var(--thim_button_text_color);
+  font-size: var(--thim_font_button-font-size) !important;
+  font-weight: var(--thim_font_button-variant);
+  line-height: var(--thim_font_button-line-height);
+  text-transform: var(--thim_font_button-text-transform);
+  transition: 0.3s;
+}
+.sailing-11 .woocommerce-notices-wrapper .button:hover {
+  transform: translateY(-5px);
+  background: #019982 !important;
+}
+.sailing-11 .thim-ekits-mini-cart.mini-cart .widget_shopping_cart_content:after {
+  content: none;
+}
+.sailing-11 .thim-ekits-mini-cart.mini-cart:hover .widget_shopping_cart_content {
+  margin-top: 26px;
+}
+
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-cart .hb_button,
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment button[type=submit],
+.wp-hotel-booking-cart.sailing-11 .hotel_booking_mini_cart .hb_mini_cart_footer .hb_view_cart,
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_footer .hb_button,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-cart .hb_button,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment button[type=submit],
+.wp-hotel-booking-checkout.sailing-11 .hotel_booking_mini_cart .hb_mini_cart_footer .hb_view_cart,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_footer .hb_button {
+  padding: 11px 16px;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room {
+  border: none;
+  background-color: var(--thim-bg-order-cart, #f2f4f4);
+  border-radius: var(--thim_border_radius-item-big, 0);
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .line-heading,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .line-heading {
+  display: none;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price_packages label,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price_packages label {
+  font-weight: var(--thim_font_title-variant);
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price_packages li,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price_packages li {
+  padding-left: 0;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .wrapper-line-heading,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .wrapper-line-heading {
+  text-align: left;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_title,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_title {
+  font-size: var(--thim_font_body-font-size);
+  font-weight: var(--thim_font_title-variant);
+  margin-top: 12px;
+  margin-right: 30px;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_title a,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_title a {
+  color: var(--thim_font_title-color);
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_price {
+  display: flex;
+  justify-content: space-between;
+}
+.wp-hotel-booking-cart.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_item,
+.wp-hotel-booking-checkout.sailing-11 #sidebar .thim-widget-mini-cart-room .hb_mini_cart_item {
+  padding-bottom: 12px;
+}
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border {
+  border: none;
+  padding: 0;
+}
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border h4,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border h4 {
+  margin-bottom: 20px;
+}
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border input[type=number],
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border input[type=text],
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border input[type=email],
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border select,
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-payment .hb-col-border textarea,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border input[type=number],
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border input[type=text],
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border input[type=email],
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border select,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-payment .hb-col-border textarea {
+  border: none;
+  padding: 11px 16px;
+  line-height: var(--thim_font_body-line-height);
+  border-radius: var(--thim_border_radius-item, 0);
+  background-color: var(--thim-bg-input, #f2f4f4);
+}
+.wp-hotel-booking-cart.sailing-11 .hb_mini_cart_item .hb_mini_cart_remove:hover,
+.wp-hotel-booking-cart.sailing-11 #hotel-booking-cart .hb_remove_cart_item:hover,
+.wp-hotel-booking-checkout.sailing-11 .hb_mini_cart_item .hb_mini_cart_remove:hover,
+.wp-hotel-booking-checkout.sailing-11 #hotel-booking-cart .hb_remove_cart_item:hover {
+  background-color: transparent;
+  color: var(--thim_body_primary_color);
+}
+
+form.wpcf7-form .wpcf7-response-output {
+  position: unset;
+}
+
+#hotel-booking-cart .hb_button.hb_checkout,
+#hotel-booking-cart button[type=submit],
+#hotel-booking-cart button[type=button],
+#hotel-booking-payment .hb_button.hb_checkout,
+#hotel-booking-payment button[type=submit],
+#hotel-booking-payment button[type=button] {
+  padding: 11px 16px;
+  background: var(--thim_body_primary_color) !important;
+}
+#hotel-booking-cart .hb_button.hb_checkout:hover,
+#hotel-booking-cart button[type=submit]:hover,
+#hotel-booking-cart button[type=button]:hover,
+#hotel-booking-payment .hb_button.hb_checkout:hover,
+#hotel-booking-payment button[type=submit]:hover,
+#hotel-booking-payment button[type=button]:hover {
+  background: rgba(var(--thim_body_primary_color_rgb), 80%) !important;
+}
+
+#hotel-booking-payment #hb-order-new-customer .hb-col-border {
+  margin: 0 -15px;
+}
+#hotel-booking-payment #hb-order-new-customer .hb-form-field {
+  max-width: none;
+  margin: 15px;
+}
+#hotel-booking-payment #hb-order-new-customer h4 {
+  margin: 15px;
+}
+
+#hotel-booking-cart input[name=hb-coupon-code],
+#hotel-booking-payment input[name=hb-coupon-code] {
+  height: 44px;
+}
+
+@media (max-width: 767px) {
+  .booking-notes {
+    margin-bottom: 30px;
+  }
+  #booking-items table th,
+  #booking-items table td {
+    padding: 10px;
+    font-size: 0.875em;
+  }
+}

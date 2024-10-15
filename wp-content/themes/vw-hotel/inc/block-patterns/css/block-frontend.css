@@ -1,0 +1,94 @@
+/*----- Banner Section -----*/
+.banner-section, .about-section{
+  width: auto;
+  height: auto;
+}
+.banner-section .banner-main p, .about-section h2{
+  font-family: 'Great Vibes', cursive;
+}
+.banner-section .banner-main p:after, .banner-section .banner-main p:before{
+  content: '';
+  background: url(../images/title-icon.png) no-repeat;
+  padding: 0 15px;
+  margin: 0 15px;
+}
+/*----- About Section -----*/
+.about-section {
+  position: relative;
+  margin-top: -3em;
+  z-index: 999;
+  box-shadow: 0px 0px 12px #bbb;
+}
+.about-section h3{
+  position: relative;
+}
+.about-section h3:after {
+  content: "";
+  border-bottom: 3px solid #f1b64a;
+  padding: 16px 25px;
+  position: absolute;
+  left: 0;
+}
+.about-section h2:before{
+  content: '';
+  background: url(../images/title-icon.png) no-repeat;
+  padding: 0 15px;
+  margin-right: 15px;
+}
+.about-section h2{
+  font-weight: 600 !important;
+}
+.about-section .about-btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+.about-section .about-btn a{
+  padding: 14px 25px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  white-space: nowrap;
+  text-decoration: none;
+}
+.about-section .about-btn a:hover{
+  background: #212121 !important;
+  color: #f1b64a !important;
+}
+.about-section .about-img{
+  position: relative;
+}
+.about-section .about-img:hover .about-btn{
+  width: 100%;
+}
+/*------ Media CSS ------*/
+@media screen and (max-width: 575px){
+  .banner-section p, .about-section h2{
+    display: flex;
+  }
+  .banner-section p{
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 576px){
+  .banner-section .wp-block-column.banner-main:nth-child(2){
+    flex-basis: 100% !important;
+  }
+}
+@media screen and (max-width: 992px) and (min-width: 767px) {
+  .about-section .wp-block-columns{
+    flex-wrap: nowrap !important;
+  }
+  .about-section .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{
+    flex-basis: 50%!important;
+  }
+}

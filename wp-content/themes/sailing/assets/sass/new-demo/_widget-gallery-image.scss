@@ -1,0 +1,122 @@
+ .thim-widget-gallery-images {
+	.thim-gallery-images-column {
+		text-align: center;
+		.list_image {
+			padding:    40px 0 65px 0;
+			border:     1px solid $border-color;
+			margin:     0 120px;
+			border-top: none;
+			.item-image {
+				display: inline-block;
+				img {
+					margin: 0 30px;
+				}
+			}
+		}
+		.text_wellcome {
+			margin-top: -17px;
+			display:    block;
+			h3 {
+				margin:      0;
+				display:     inline-block;
+				padding:     0 30px;
+				background:  #fff;
+				font-size:   26px;
+				font-weight: 400;
+				font-style:  italic;
+				color:       #c19b76;
+			}
+		}
+
+		&.popup_style .list_image {
+			display: grid;
+			grid-template-columns: var(--thim-gallery-image-columns, repeat(4, 1fr));
+			gap: 10px;
+			margin: 0;
+			padding: 0;
+			border: none;
+
+			.item-image {
+				position: relative;
+
+				img {
+					margin: 0;
+					border-radius: $thim_border_radius_item_big;
+					height: 100%;
+					object-fit: cover;
+				}
+
+				a {
+					position: relative;
+					width: 100%;
+					height: 100%;
+					display: inline-block;
+
+					&::before {
+						content: '';
+						position: absolute;
+						top: 0;
+						bottom: 0;
+						left: 0;
+						right: 0;
+						background-color: #12121227;
+						border-radius: $thim_border_radius_item_big;
+						opacity: 0;
+						visibility: hidden;
+						transition: 0.3s;
+					}
+
+					&::after {
+						content: "\f067";
+						font-family: thim-ekits !important;
+						font-style: normal;
+						font-weight: 400;
+						font-variant: normal;
+						text-transform: none;
+						line-height: 1;
+						-webkit-font-smoothing: antialiased;
+						-moz-osx-font-smoothing: grayscale;
+						position: absolute;
+						left: 50%;
+						top: 50%;
+						color: #fff;
+						font-size: 24px;
+						transform: translate(-50%, -50%);
+						opacity: 0;
+						visibility: hidden;
+						transition: 0.3s;
+					}
+
+					&:hover::before, &:hover::after {
+						opacity: 1;
+						visibility: visible;
+					}
+				} 
+			}
+
+			.button-gallery {
+				position: absolute;
+				bottom: 16px;
+				right: 16px;
+				font-size: 16px;
+				text-transform: capitalize;
+				color: #1E1E1E;
+				background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+				border-radius: 200px;
+				background: #FFF;
+				padding: 0 16px;
+				line-height: 44px;
+				font-weight: 600;
+				gap: 5px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				pointer-events: none;
+
+				@media (min-width: 768px) and (max-width: 1199px) {
+					font-size: 16px;
+				}
+			}
+		}
+	}
+}
