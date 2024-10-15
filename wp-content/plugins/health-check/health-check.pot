@@ -1,0 +1,936 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Health Check & Troubleshooting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-25 08:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: health-check"
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:105
+msgid "(View Diff)"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-htaccess.php:20
+msgid ".htaccess Viewer"
+msgstr ""
+
+#: pages/troubleshoot.php:34
+msgid ""
+"A Troubleshooting Mode menu is added to your admin bar, which will allow you "
+"to enable plugins individually, switch back to your current theme, and "
+"disable Troubleshooting Mode."
+msgstr ""
+
+#. %s: The active theme name.
+#: HealthCheck/class-health-check-loopback.php:196
+#, php-format
+msgid "Active theme: %s"
+msgstr ""
+
+#. Prefix for the active theme in a listing.
+#: mu-plugin/health-check-troubleshooting-mode.php:1465
+msgid "Active:"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:147
+msgid "Additional message"
+msgstr ""
+
+#. %s: The custom message that may be included with the email.
+#: HealthCheck/Tools/class-health-check-mail-check.php:74
+#, php-format
+msgid "Additional message from admin: %s"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:176
+msgid "All files passed the check. Everything seems to be ok!"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:9
+msgid ""
+"Attempt to identify the compatibility of your plugins before upgrading PHP, "
+"note that a compatibility check may not always be accurate, and you may want "
+"to contact the plugin author to confirm that things will continue working."
+msgstr ""
+
+#. %d: The amount of available plugins.
+#: mu-plugin/health-check-troubleshooting-mode.php:1317
+msgid "Available plugins (%d)"
+msgstr ""
+
+#. %d: The amount of available themes.
+#: mu-plugin/health-check-troubleshooting-mode.php:1422
+msgid "Available themes (%d)"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:48
+msgid ""
+"Because the <code>WP_DEBUG_LOG</code> constant is not set to allow logging "
+"of errors and warnings, and there is therefore no more details here."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-beta-features.php:20
+msgid "Beta features"
+msgstr ""
+
+#: pages/troubleshoot.php:30
+msgid ""
+"By enabling the Troubleshooting Mode, all plugins will appear inactive and "
+"your site will switch to the default theme only for you. All other users "
+"will see your site as usual."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1619
+msgid "Cancel"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:65
+msgid "Check plugins"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:285
+msgid "Check the Files Integrity"
+msgstr ""
+
+#. Description of the plugin
+msgid "Checks the health of your WordPress install."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1618
+msgid "Confirm"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:105
+msgid "Content changed"
+msgstr ""
+
+#: pages/screenshots.php:81
+msgid "Copied!"
+msgstr ""
+
+#: pages/screenshots.php:80
+msgid "Copy forum markup"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:101
+msgid "Could not be determined"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:61
+msgid "Debug log contents"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:6
+msgid "Debug logs"
+msgstr ""
+
+#: pages/screenshots.php:100
+msgid "Delete screenshot"
+msgstr ""
+
+#: pages/screenshots.php:33
+msgctxt "Description of the button label"
+msgid "Take Screenshot"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1362
+msgid "Disable"
+msgstr ""
+
+#. %s: Plugin slug.
+#: mu-plugin/health-check-troubleshooting-mode.php:1110
+#, php-format
+msgid "Disable %s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:922
+msgid "Disable anyway"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-beta-features.php:63
+msgid "Disable beta features"
+msgstr ""
+
+#. %s: Plugin name.
+#: mu-plugin/health-check-troubleshooting-mode.php:1358
+#, php-format
+msgid "Disable the plugin, %s, while troubleshooting."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:244
+#: mu-plugin/health-check-troubleshooting-mode.php:1198
+#: mu-plugin/health-check-troubleshooting-mode.php:1286
+msgid "Disable Troubleshooting Mode"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:333
+#: mu-plugin/health-check-troubleshooting-mode.php:392
+msgid "Disable while troubleshooting"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1564
+msgid "Dismiss notices"
+msgstr ""
+
+#: pages/site-status.php:36
+msgid ""
+"Due to this, some functionality has been removed from the plugin, you can "
+"find these features in a more recent version of WordPress it self."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:141
+msgid "Email"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1383
+msgid "Enable"
+msgstr ""
+
+#. %s: Plugin slug.
+#: mu-plugin/health-check-troubleshooting-mode.php:1127
+#, php-format
+msgid "Enable %s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:837
+msgid "Enable anyway"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-beta-features.php:57
+msgid "Enable beta features"
+msgstr ""
+
+#. %s: Plugin name.
+#: mu-plugin/health-check-troubleshooting-mode.php:1379
+#, php-format
+msgid "Enable the plugin, %s, while troubleshooting."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:255
+msgid "Enable Troubleshooting Mode"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:332
+#: mu-plugin/health-check-troubleshooting-mode.php:406
+msgid "Enable while troubleshooting"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1268
+msgid "enabled"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:197
+msgid "Error"
+msgstr ""
+
+#. %1$d: The HTTP response code. %2$s: The error message returned.
+#: HealthCheck/class-health-check-loopback.php:82
+#, php-format
+msgid "Error encountered: (%1$d) %2$s"
+msgstr ""
+
+#: pages/phpinfo.php:17
+msgid "Extended PHP Information"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:185
+#: HealthCheck/Tools/class-health-check-files-integrity.php:191
+msgid "File"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:20
+msgid "File integrity"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:108
+msgid "File not found"
+msgstr ""
+
+#. %s: Plugin name.
+#: mu-plugin/health-check-troubleshooting-mode.php:918
+#, php-format
+msgid "Force-disable the plugin, %s, even though the loopback checks failed."
+msgstr ""
+
+#. %s: Plugin name.
+#: mu-plugin/health-check-troubleshooting-mode.php:833
+#, php-format
+msgid "Force-enable the plugin, %s, even though the loopback checks failed."
+msgstr ""
+
+#. %s: Plugin name.
+#: mu-plugin/health-check-troubleshooting-mode.php:1001
+#, php-format
+msgid "Force-switch to the %s theme, even though the loopback checks failed."
+msgstr ""
+
+#. Name of the plugin
+msgid "Health Check & Troubleshooting"
+msgstr ""
+
+#. %s: website url.
+#: HealthCheck/Tools/class-health-check-mail-check.php:59
+#, php-format
+msgid "Health Check – Test Message from %s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1296
+msgid ""
+"Here you can enable individual plugins or themes, helping you to find out "
+"what might be causing strange behaviors on your site. Do note that <strong>"
+"any changes you make to settings will be kept</strong> when you disable "
+"Troubleshooting Mode."
+msgstr ""
+
+#. %1$s: website name. %2$s: website url. %3$s: The date the message was sent. %4$s: The time the message was sent.
+#: HealthCheck/Tools/class-health-check-mail-check.php:63
+#, php-format
+msgid ""
+"Hi! This test message was sent by the Health Check plugin from %1$s (%2$s) "
+"on %3$s at %4$s. Since you’re reading this, it obviously works."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:40
+msgid "Highest supported PHP"
+msgstr ""
+
+#. The localized URL to the Debugging in WordPress article, if available.
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:56
+msgid ""
+"https://wordpress.org/documentation/article/debugging-in-"
+"wordpress/#wp_debug_log"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wordpress.org/plugins/health-check/"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1304
+msgid ""
+"If you wish to troubleshoot as another user, or as an anonymous site visitor,"
+" the <a href=\"https://wordpress.org/plugins/user-switching/\">User Switcher "
+"plugin</a> allows for all of this while also being compatible with "
+"Troubleshooting Mode."
+msgstr ""
+
+#: HealthCheck/class-health-check.php:341
+msgid "Info"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:196
+msgid "Install the latest classic default theme"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:187
+msgid "Install the latest default theme"
+msgstr ""
+
+#: HealthCheck/BackCompat/class-wp-site-health.php:99
+msgctxt "Issue counter label for the admin menu"
+msgid "Critical issues"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:180
+msgid "It appears as if some files may have been modified."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:100
+msgid "It seems there was a problem sending the e-mail."
+msgstr ""
+
+#: compat.php:159
+msgctxt "localized PHP upgrade information page"
+msgid "https://wordpress.org/support/update-php/"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:22
+msgid "Mail Check"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1071
+msgid "Manage active plugins"
+msgstr ""
+
+#. %s: Critical issue counter, if any.
+#: HealthCheck/BackCompat/class-wp-site-health.php:106
+#, php-format
+msgctxt "Menu Title"
+msgid "Site Health %s"
+msgstr ""
+
+#: HealthCheck/class-health-check.php:332
+msgctxt "Menu, Section and Page Title"
+msgid "Health Check"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:39
+msgid "Minimum PHP"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:264
+msgid "Modified"
+msgstr ""
+
+#. %d: The amount of notices that are visible.
+#: mu-plugin/health-check-troubleshooting-mode.php:1507
+msgid "Notices (%d)"
+msgstr ""
+
+#: HealthCheck/BackCompat/class-wp-site-health.php:30
+msgid "Once weekly"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:181
+msgid ""
+"One possible reason for this may be that your installation contains "
+"translated versions. An easy way to clear this is to reinstall WordPress. "
+"Don't worry. This will only affect WordPress' own files, not your themes, "
+"plugins or uploaded media."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:262
+msgid "Original"
+msgstr ""
+
+#: HealthCheck/BackCompat/class-wp-site-health.php:112
+msgctxt "Page title"
+msgid "Site Health"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-phpinfo.php:19
+msgid "PHP Info"
+msgstr ""
+
+#: pages/troubleshoot.php:38
+msgid ""
+"Please note, that due to how Must Use plugins work, any such plugin will not "
+"be disabled for the troubleshooting session."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:37
+msgid "Plugin"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1527
+msgid ""
+"Plugin actions, such as activating and deactivating, are not available while "
+"in Troubleshooting Mode."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:6
+msgid "Plugin compatibility"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1080
+msgid "Plugins"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1175
+msgctxt "Prefix for inactive themes in troubleshooting mode"
+msgid "Switch to"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1175
+msgctxt "Prefix for the active theme in troubleshooting mode"
+msgid "Active:"
+msgstr ""
+
+#. %s: The date and time the screenshot was taken.
+#: pages/screenshots.php:114
+#, php-format
+msgid "Published on %s"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:187
+#: HealthCheck/Tools/class-health-check-files-integrity.php:193
+msgid "Reason"
+msgstr ""
+
+#: HealthCheck/class-health-check-loopback.php:171
+msgid "Result from testing without any plugins active and a default theme"
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:176
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-robotstxt.php:20
+msgid "robots.txt Viewer"
+msgstr ""
+
+#: HealthCheck/class-health-check-screenshots.php:147
+msgid "Screenshot"
+msgstr ""
+
+#: HealthCheck/class-health-check-screenshots.php:132
+#: HealthCheck/class-health-check-screenshots.php:146 pages/screenshots.php:17
+msgid "Screenshots"
+msgstr ""
+
+#: pages/site-health-header.php:21
+msgid "Secondary menu"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:153
+msgid "Send test mail"
+msgstr ""
+
+#. %d: Amount of hidden plugins.
+#: mu-plugin/health-check-troubleshooting-mode.php:1394
+msgid "Show %d remaining plugin"
+msgid_plural "Show %d remaining plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %d: Amount of hidden themes.
+#: mu-plugin/health-check-troubleshooting-mode.php:1480
+msgid "Show %d remaining theme"
+msgid_plural "Show %d remaining themes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pages/site-health-header.php:17
+msgid "Site Health"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-phpinfo.php:24
+msgid ""
+"Some scenarios require you to look up more detailed server configurations "
+"than what is normally required. The PHP Info page allows you to view all "
+"available configuration options for your PHP setup. Please be advised that "
+"WordPress does not guarantee that any information shown on that page may not "
+"be considered sensitive."
+msgstr ""
+
+#: HealthCheck/class-health-check.php:340
+#: HealthCheck/Tools/class-health-check-files-integrity.php:183
+#: HealthCheck/Tools/class-health-check-files-integrity.php:189
+msgid "Status"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1005
+msgid "Switch anyway"
+msgstr ""
+
+#. %s: Theme name.
+#: mu-plugin/health-check-troubleshooting-mode.php:1455
+#, php-format
+msgid "Switch the active theme to %s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1459
+msgid "Switch to this theme"
+msgstr ""
+
+#: HealthCheck/class-health-check-screenshots.php:248
+msgid "Take screenshot"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-htaccess.php:21
+msgid ""
+"The <code>.htaccess</code> file tells your server (if supported) how to "
+"handle links and file requests. This file usually requires direct server "
+"access to view, but if your system supports these files, you can verify its "
+"content here."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-robotstxt.php:21
+msgid ""
+"The <code>robots.txt</code> file tells search engines which directories are "
+"allowed to be crawled and which not. WordPress generates a virtual file if "
+"there is no physical file. If there is a non-virtual file, the content will "
+"be displayed here."
+msgstr ""
+
+#: pages/tools.php:17
+msgid ""
+"The additional tools for the Health Check plugin will be available as a "
+"standalone plugin in the future, since the primary Health Check features "
+"have been available in WordPress since version 5.2."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:10
+msgid ""
+"The compatibility check will need to send requests to the <a href=\"https:"
+"//wptide.org\">WPTide</a> project to fetch the test results for each of your "
+"plugins."
+msgstr ""
+
+#. %s: The path to the debug log file.
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:36
+#, php-format
+msgid "The debug log file found at `%s`, could not be read."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:7
+msgid ""
+"The details below are gathered from your <code>debug.log</code> file, and is "
+"displayed because the <code>WP_DEBUG_LOG</code> constant has been set to "
+"allow logging of warnings and errors."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:95
+msgid ""
+"The e-mail took a while to send; this may indicate that your server is "
+"really busy, or that the sending of emails may be experiencing other "
+"unexpected issues. If you experience continued issues, consider reaching out "
+"to your hosting provider."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:21
+msgid ""
+"The File Integrity checks all the core files with the <code>checksums</code> "
+"provided by the WordPress API to see if they are intact. If there are "
+"changes you will be able to make a Diff between the files hosted on "
+"WordPress.org and your installation to see what has been changed."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1300
+msgid ""
+"The Health Check plugin will attempt to disable cache solutions on your site,"
+" but if you are using a custom caching solution, you may need to disable it "
+"manually when troubleshooting."
+msgstr ""
+
+#. %d: The HTTP response code returned.
+#: HealthCheck/class-health-check-loopback.php:95
+msgid ""
+"The loopback request returned an unexpected http status code, %d, it was not "
+"possible to determine if this will prevent features from working as expected."
+msgstr ""
+
+#: HealthCheck/class-health-check-loopback.php:103
+msgid "The loopback request to your site completed successfully."
+msgstr ""
+
+#: HealthCheck/class-health-check-loopback.php:79
+msgid ""
+"The loopback request to your site failed, this means features relying on "
+"them are not currently working as expected."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:23
+msgid ""
+"The Mail Check will invoke the <code>wp_mail()</code> function and check if "
+"it succeeds. We will use the E-mail address you have set up, but you can "
+"change it below if you like."
+msgstr ""
+
+#: pages/phpinfo.php:26 HealthCheck/Tools/class-health-check-phpinfo.php:22
+msgid ""
+"The phpinfo() function has been disabled by your host. Please contact the "
+"host if you need more information about your setup."
+msgstr ""
+
+#: pages/site-status.php:42
+msgid ""
+"The plugin itself still offers you the ability to troubleshoot issues with "
+"your installation, and various tools associated with this functionality."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-beta-features.php:21
+msgid ""
+"The plugin may contain beta features, which you as the site owner can enable "
+"or disable as you wish."
+msgstr ""
+
+#: pages/site-health-header.php:56
+msgid "The Site Health check requires JavaScript."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:73
+msgid "The slug, or version, is missing from the request."
+msgstr ""
+
+#: pages/troubleshoot.php:17
+msgid ""
+"The Troubleshooting Mode from the Health Check plugin will be available as a "
+"standalone plugin in the future, since the primary Health Check features "
+"have been available in WordPress since version 5.2."
+msgstr ""
+
+#. Author of the plugin
+msgid "The WordPress.org community"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1159
+msgid "Themes"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1519
+msgid "There are no notices to show."
+msgstr ""
+
+#: pages/screenshots.php:22
+msgid ""
+"This is a beta-feature, and some inconsistencies in screenshots is to be "
+"expected, please keep that, and the fact that your pages may show sensitive "
+"information in mind when sharing screenshots."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:135
+#: HealthCheck/Tools/class-health-check-files-integrity.php:147
+msgid "This is an unknown file"
+msgstr ""
+
+#. %s: The label of the "Take screenshot" button.
+#: pages/screenshots.php:30
+#, php-format
+msgid ""
+"To take a screenshot for sharing with support users, you may click the %s "
+"button, found at the top of every page, and they will be stored securely on "
+"your site until you wish to share them."
+msgstr ""
+
+#: HealthCheck/class-health-check.php:343
+#: HealthCheck/class-health-check.php:352 pages/tools.php:21
+msgid "Tools"
+msgstr ""
+
+#: HealthCheck/class-health-check.php:314
+#: mu-plugin/health-check-troubleshooting-mode.php:326
+msgid "Troubleshoot"
+msgstr ""
+
+#: HealthCheck/class-health-check.php:342
+#: HealthCheck/class-health-check.php:351
+msgid "Troubleshooting"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1061
+msgid "Troubleshooting Mode"
+msgstr ""
+
+#: pages/troubleshoot.php:21
+msgid "Troubleshooting mode"
+msgstr ""
+
+#. %s: The running status of Troubleshooting Mode.
+#: mu-plugin/health-check-troubleshooting-mode.php:1265
+#, php-format
+msgid "Troubleshooting Mode - %s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1607
+msgid "Troubleshooting Mode - Security check"
+msgstr ""
+
+#: pages/troubleshoot.php:26
+msgid ""
+"Understandably, you do not wish to do so as it may affect your site visitors,"
+" leaving them with lost functionality."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-plugin-compatibility.php:38
+msgid "Version"
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-phpinfo.php:78
+msgid "View extended PHP information"
+msgstr ""
+
+#: pages/screenshots.php:64
+msgid "View screenshot"
+msgstr ""
+
+#: HealthCheck/class-health-check-loopback.php:188
+#: HealthCheck/class-health-check-loopback.php:199
+msgid "Waiting..."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:98
+msgid "We could not remove the old must-use plugin."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-mail-check.php:89
+msgid ""
+"We have just sent an e-mail using <code>wp_mail()</code> and it seems to "
+"work. Please check your inbox and spam folder to see if you received it."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:105
+msgid ""
+"We were unable to copy the plugin file required to enable the "
+"Troubleshooting Mode."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:90
+msgid "We were unable to create the mu-plugins directory."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:149
+msgid ""
+"We were unable to replace the plugin file required to enable the "
+"Troubleshooting Mode."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:315
+msgid ""
+"When bulk-disabling plugins, a site failure occurred. Because of this the "
+"change was automatically reverted."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:290
+msgid ""
+"When bulk-enabling plugins, a site failure occurred. Because of this the "
+"change was automatically reverted."
+msgstr ""
+
+#. %1$s: The plugin slug that was disabled. %2$s: The force-disable link markup.
+#: mu-plugin/health-check-troubleshooting-mode.php:901
+#, php-format
+msgid ""
+"When disabling the plugin, %1$s, a site failure occurred. Because of this "
+"the change was automatically reverted. %2$s"
+msgstr ""
+
+#. %1$s: The link-button markup to force enable the plugin. %2$s: The force-enable link markup.
+#: mu-plugin/health-check-troubleshooting-mode.php:816
+#, php-format
+msgid ""
+"When enabling the plugin, %1$s, a site failure occurred. Because of this the "
+"change was automatically reverted. %2$s"
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:265
+msgid ""
+"When enabling troubleshooting on the selected plugins, a site failure "
+"occurred. Because of this the selected plugins were kept disabled while "
+"troubleshooting mode started."
+msgstr ""
+
+#. %1$s: The theme slug that was switched to.. %2$s: The force-enable link markup.
+#: mu-plugin/health-check-troubleshooting-mode.php:984
+#, php-format
+msgid ""
+"When switching the active theme to %1$s, a site failure occurred. Because of "
+"this we reverted the theme to the one you used previously. %2$s"
+msgstr ""
+
+#: pages/troubleshoot.php:25
+msgid ""
+"When troubleshooting issues on your site, you are likely to be told to "
+"disable all plugins and switch to the default theme."
+msgstr ""
+
+#: pages/site-status.php:20
+msgid "WordPress update needed!"
+msgstr ""
+
+#. %s: The current WordPress version used on this site.
+#: pages/site-status.php:27
+#, php-format
+msgid ""
+"You are running an older version of WordPress, version %s. The Site Health "
+"features from this plugin were added to version 5.2 of WordPress."
+msgstr ""
+
+#. %s: The URL to the Debugging in WordPress article.
+#: HealthCheck/Tools/class-health-check-debug-log-viewer.php:54
+#, php-format
+msgid ""
+"You can read more about the <code>WP_DEBUG_LOG</code> constant, and how to "
+"enable it, in the <a href=\"%s\">Debugging in WordPress</a> article."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-files-integrity.php:242
+#: HealthCheck/Tools/class-health-check-files-integrity.php:251
+msgid "You do not have access to this file."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:178
+msgid ""
+"You don't have any of the default themes installed. A default theme helps "
+"you determine if your current theme is causing conflicts."
+msgstr ""
+
+#: pages/screenshots.php:49
+msgid ""
+"You have not taken any screenshots, return here when you have to view them."
+msgstr ""
+
+#: HealthCheck/class-health-check-troubleshoot.php:172
+msgid ""
+"You have successfully enabled Troubleshooting Mode, all plugins will appear "
+"inactive until you disable Troubleshooting Mode, or log out and back in "
+"again."
+msgstr ""
+
+#. The theme being activated.
+#: mu-plugin/health-check-troubleshooting-mode.php:953
+#, php-format
+msgid ""
+"You were attempting to <strong>change the active theme</strong> to %s while "
+"troubleshooting."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:726
+msgid "You were attempting to <strong>disable Troubleshooting Mode</strong>."
+msgstr ""
+
+#. The plugin being affected.
+#: mu-plugin/health-check-troubleshooting-mode.php:868
+#, php-format
+msgid ""
+"You were attempting to <strong>disable</strong> the %s plugin while "
+"troubleshooting."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:753
+msgid "You were attempting to <strong>dismiss all notices</strong>."
+msgstr ""
+
+#. The plugin being affected.
+#: mu-plugin/health-check-troubleshooting-mode.php:782
+#, php-format
+msgid ""
+"You were attempting to <strong>enable</strong> the %s plugin while "
+"troubleshooting."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1611
+msgid ""
+"You were attempting to perform an action that requires a security token, "
+"which was either not present in your request, or was considered invalid. "
+"Please verify that the following action is intentional, or feel free to "
+"cancel the action and nothing will change."
+msgstr ""
+
+#: mu-plugin/health-check-troubleshooting-mode.php:1292
+msgid ""
+"Your site is currently in Troubleshooting Mode. This has <strong>no effect "
+"on your site visitors</strong>, they will continue to view your site as "
+"usual, but for you it will look as if you had just installed WordPress for "
+"the first time."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-htaccess.php:44
+msgid ""
+"Your site is not using <code>.htaccess</code> to handle permalinks. This "
+"means that your .htaccess file is not being used to handle requests, and "
+"they are most likely handled directly by your web-server software."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-htaccess.php:38
+msgid ""
+"Your site is using <code>.htaccess</code> rules to handle permalinks, but no "
+".htaccess file was found. This means that your .htaccess file is not being "
+"used to handle requests."
+msgstr ""
+
+#: HealthCheck/Tools/class-health-check-robotstxt.php:37
+msgid ""
+"Your site is using the virtual <code>robots.txt</code> file which is "
+"generated by WordPress."
+msgstr ""

@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Thim Testimonials','report-msgid-bugs-to'=>'','pot-creation-date'=>'2016-11-29 10:50+0700','po-revision-date'=>'2024-09-26 02:31+0000','last-translator'=>'','language-team'=>'Tiếng Việt','language'=>'vi','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','plural-forms'=>'nplurals=1; plural=0;','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.11; wp-6.6.2','messages'=>[]];

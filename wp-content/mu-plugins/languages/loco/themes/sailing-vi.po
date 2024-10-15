@@ -1,0 +1,6145 @@
+# Copyright (C) 2024 sailing
+# This file is distributed under the same license as the sailing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: sailing\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-15 07:35+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-09-26 08:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: sailing/comments.php:34, /sailing/comments.php:53
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: sailing/comments.php:36, /sailing/comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ"
+
+#: sailing/comments.php:37, /sailing/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Bình luận mới &rarr;"
+
+#: sailing/comments.php:45
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Bình luận"
+
+#: sailing/comments.php:64
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng lại."
+
+#: sailing/comments.php:68
+msgid "Leave A Reply"
+msgstr "Để lại phản hồi"
+
+#: sailing/comments.php:69
+msgid "Post Comment"
+msgstr "Đăng bình luận"
+
+#: sailing/comments.php:70, /sailing/comments.php:70
+msgid "Comment"
+msgstr "Bình luận"
+
+#: sailing/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: sailing/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: sailing/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, cụm từ tìm kiếm của bạn không phù hợp. Vui lòng thử lại với một số "
+"từ khóa khác."
+
+#: sailing/content-page.php:14, /sailing/content-single.php:42
+msgid "Pages:"
+msgstr ""
+
+#: sailing/content.php:103, /sailing/related-single.php:99,
+#: sailing/inc/widgets/column-post/tpl/base.php:85,
+#: sailing/inc/widgets/column-post/tpl/base.php:64
+msgid "Read More"
+msgstr "Xem thêm"
+
+#: sailing/footer.php:79
+msgid "Go To Top"
+msgstr ""
+
+#: sailing/functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: sailing/functions.php:101
+msgid "Primary Color"
+msgstr ""
+
+#: sailing/functions.php:106
+msgid "Title Color"
+msgstr ""
+
+#: sailing/functions.php:111
+msgid "Sub Title Color"
+msgstr ""
+
+#: sailing/functions.php:116,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:337,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:496
+msgid "Border Color"
+msgstr ""
+
+#: sailing/functions.php:127
+msgid "Small"
+msgstr ""
+
+#: sailing/functions.php:128
+msgid "S"
+msgstr ""
+
+#: sailing/functions.php:133,
+#: sailing/elementor-addons/elements/heading/heading.php:261,
+#: sailing/elementor-addons/elements/heading/heading.php:286,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:181,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:240,
+#: sailing/inc/widgets/heading/heading.php:108,
+#: sailing/inc/widgets/icon-box/icon-box.php:79,
+#: sailing/inc/widgets/icon-box/icon-box.php:133
+msgid "Normal"
+msgstr ""
+
+#: sailing/functions.php:134
+msgid "M"
+msgstr ""
+
+#: sailing/functions.php:139
+msgid "Large"
+msgstr ""
+
+#: sailing/functions.php:140
+msgid "L"
+msgstr ""
+
+#: sailing/functions.php:145
+msgid "Huge"
+msgstr ""
+
+#: sailing/functions.php:146
+msgid "XL"
+msgstr ""
+
+#: sailing/functions.php:169,
+#: sailing/elementor-addons/elements/list-post/list-post.php:123,
+#: sailing/inc/widgets/list-post/list-post.php:34
+msgid "Sidebar"
+msgstr ""
+
+#: sailing/functions.php:179,
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:5
+msgid "Toolbar"
+msgstr ""
+
+#: sailing/functions.php:211
+msgid "Menu Left"
+msgstr ""
+
+#: sailing/functions.php:220
+msgid "Menu Right"
+msgstr ""
+
+#: sailing/functions.php:189
+msgid "Logo Left"
+msgstr ""
+
+#: sailing/functions.php:199
+msgid "Logo Right"
+msgstr ""
+
+#: sailing/functions.php:230
+msgid "Rooms Sidebar"
+msgstr ""
+
+#: sailing/functions.php:232
+msgid "Sidebar Of Rooms"
+msgstr ""
+
+#: sailing/functions.php:239
+msgid "Search Rooms Sidebar"
+msgstr ""
+
+#: sailing/functions.php:241
+msgid "Sidebar Of Room Search Page"
+msgstr ""
+
+#: sailing/functions.php:251, /sailing/functions.php:253
+msgid "Sidebar Events"
+msgstr ""
+
+#: sailing/functions.php:262,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:7
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: sailing/functions.php:271
+msgid "Main Bottom"
+msgstr ""
+
+#: sailing/functions.php:280
+msgid "Footer"
+msgstr ""
+
+#: sailing/functions.php:289
+msgid "Footer Copyright"
+msgstr ""
+
+#: sailing/related-single.php:17
+msgid "Recent Blog"
+msgstr ""
+
+#: sailing/search.php:27, /sailing/inc/template-tags.php:342
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:73
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: sailing/inc/custom-functions.php:82, /sailing/inc/template-tags.php:288
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: sailing/inc/custom-functions.php:85
+msgid "Reply"
+msgstr "Trả lời"
+
+#: sailing/inc/custom-functions.php:157, sailing/inc/thim-core-function.php:301
+msgid "No Padding Content"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:211, sailing/inc/custom-functions.php:437,
+#: sailing/woocommerce/woocommerce.php:127,
+#: sailing/elementor-addons/elements/social/social.php:217,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:28,
+#: sailing/inc/widgets/social/social.php:135
+msgid "Facebook"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:214, sailing/inc/custom-functions.php:440,
+#: sailing/woocommerce/woocommerce.php:130,
+#: sailing/elementor-addons/elements/social/social.php:218,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:46,
+#: sailing/inc/widgets/social/social.php:136
+msgid "Twitter"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:217, sailing/inc/custom-functions.php:446,
+#: sailing/woocommerce/woocommerce.php:136,
+#: sailing/elementor-addons/elements/social/social.php:220,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:64,
+#: sailing/inc/widgets/social/social.php:138
+msgid "Google Plus"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:220, sailing/inc/custom-functions.php:443,
+#: sailing/woocommerce/woocommerce.php:133,
+#: sailing/elementor-addons/elements/social/social.php:221,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:82,
+#: sailing/inc/widgets/social/social.php:139
+msgid "Pinterest"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:305, sailing/inc/custom-functions.php:305,
+#: sailing/elementor-addons/elements/tour/tour.php:56,
+#: sailing/inc/widgets/tour/tour.php:27
+msgid "Name"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:306, sailing/inc/custom-functions.php:306,
+#: sailing/wp-hotel-booking/checkout/customer-new.php:95
+msgid "Email"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:307, /sailing/inc/custom-functions.php:307
+msgid "Website"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:380
+msgid "Thim Widget"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:394
+msgid "Parallax"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:397
+msgid "If enabled, the background image will have a parallax effect."
+msgstr ""
+
+#: sailing/inc/custom-functions.php:502
+msgid ""
+"Thim Core plugin is the newest upgrade version of Thim Framework. <strong>Do "
+"not re-activate Thim Framework and <a href=\"%s\" title=\"Delete Thim "
+"Framework plugin\">better delete this plugin</a></strong>."
+msgstr ""
+
+#: sailing/inc/custom-functions.php:803, /sailing/inc/custom-functions.php:803
+msgid "404 Error"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:801, /sailing/inc/custom-functions.php:801
+msgid "Search results for:"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:798, /sailing/inc/custom-functions.php:798
+msgid "Page"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:795
+msgid "Author"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:792, sailing/inc/custom-functions.php:867,
+#: sailing/inc/custom-functions.php:868, sailing/inc/custom-functions.php:858,
+#: sailing/inc/custom-functions.php:860, sailing/inc/custom-functions.php:862,
+#: sailing/inc/template-tags.php:344
+msgid "Archives"
+msgstr ""
+
+#: sailing/inc/custom-functions.php:833, /sailing/inc/custom-functions.php:833
+msgid "Home"
+msgstr ""
+
+#: sailing/inc/tax-meta.php:14
+msgid "Category Meta Box"
+msgstr ""
+
+#: sailing/inc/tax-meta.php:35
+msgid "Custom Heading "
+msgstr ""
+
+#: sailing/inc/tax-meta.php:39
+msgid "Background Image Heading"
+msgstr ""
+
+#: sailing/inc/template-tags.php:42,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:49
+msgid "Prev"
+msgstr ""
+
+#: sailing/inc/template-tags.php:43,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:50
+msgid "Next"
+msgstr ""
+
+#: sailing/inc/template-tags.php:75
+msgid "Post navigation"
+msgstr ""
+
+#: sailing/inc/template-tags.php:79
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: sailing/inc/template-tags.php:80
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: sailing/inc/template-tags.php:111
+msgid "0 Comment"
+msgstr "0 Bình luận"
+
+#: sailing/inc/template-tags.php:111, /sailing/inc/template-tags.php:284
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: sailing/inc/template-tags.php:111, /sailing/inc/template-tags.php:145
+msgid "% comments"
+msgstr "% bình luận"
+
+#: sailing/inc/template-tags.php:123
+msgid "Post by"
+msgstr ""
+
+#: sailing/inc/template-tags.php:121
+msgid "By"
+msgstr ""
+
+#: sailing/inc/template-tags.php:135
+msgid "on"
+msgstr ""
+
+#: sailing/inc/template-tags.php:145
+msgid "0 comment"
+msgstr "0 bình luận"
+
+#: sailing/inc/template-tags.php:145
+msgid "1 comment"
+msgstr "1 bình luận"
+
+#. translators: %s: post date
+#: sailing/inc/template-tags.php:227
+msgid "%s Posted on %s %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:249
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:253
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: sailing/inc/template-tags.php:270, /sailing/inc/template-tags.php:276
+msgid ", "
+msgstr ""
+
+#: sailing/inc/template-tags.php:272
+msgid "Posted in %1$s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:278
+msgid "Tagged %1$s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:284
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: sailing/inc/template-tags.php:284
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: sailing/inc/template-tags.php:340
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:336
+msgid "Archives: %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:334
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: sailing/inc/template-tags.php:332
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: sailing/inc/template-tags.php:330
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: sailing/inc/template-tags.php:328
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: sailing/inc/template-tags.php:326
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: sailing/inc/template-tags.php:324
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: sailing/inc/template-tags.php:322
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: sailing/inc/template-tags.php:320
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: sailing/inc/template-tags.php:318
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: sailing/inc/template-tags.php:316
+msgid "Day: %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:316
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: sailing/inc/template-tags.php:314
+msgid "Month: %s"
+msgstr "Tháng: %s"
+
+#: sailing/inc/template-tags.php:314
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: sailing/inc/template-tags.php:312
+msgid "Year: %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:312
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: sailing/inc/template-tags.php:310
+msgid "Author: %s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:308, /sailing/inc/template-tags.php:306
+msgid "%s"
+msgstr ""
+
+#: sailing/inc/template-tags.php:562
+msgid "Show %s - %s of %s"
+msgstr "Hiển thị %s - %s của %s"
+
+#: sailing/inc/template-tags.php:557
+msgid "Show last post of %s results"
+msgstr ""
+
+#: sailing/inc/template-tags.php:546
+msgid "Show only one result"
+msgstr ""
+
+#: sailing/inc/template-tags.php:543
+msgid "No post found!"
+msgstr ""
+
+#: sailing/inc/template-tags.php:544
+msgid "There are no available post!"
+msgstr ""
+
+#: sailing/inc/template-tags.php:618
+msgid "Sort by"
+msgstr ""
+
+#: sailing/inc/template-tags.php:621
+msgid "Default (Newest)"
+msgstr "Mặc định (Mới nhất)"
+
+#: sailing/inc/template-tags.php:622
+msgid "Oldest"
+msgstr "Cũ nhất"
+
+#: sailing/inc/template-tags.php:623
+msgid "A to Z"
+msgstr "A đến Z"
+
+#: sailing/inc/template-tags.php:624
+msgid "Z to A"
+msgstr "Z đến A"
+
+#: sailing/inc/thim-core-function.php:42
+msgid "Sailing"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:55
+msgid "Coming Soon Mode Options"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:59
+msgid "Logo Page"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:62
+msgid "Upload your logo"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:65
+msgid "Cover Color"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:69
+msgid "Black"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:70
+msgid "Blue"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:71
+msgid "Green"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:72
+msgid "Orange"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:73
+msgid "Red"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:86,
+#: sailing/inc/widgets/icon-box/icon-box.php:439
+msgid ""
+"Select an uploaded video in mp4 format. Other formats, such as webm and ogv "
+"will work in some browsers. You can use an online service such as <a "
+"href='http://video.online-convert.com/convert-to-mp4' target='_blank'>online-"
+"convert.com</a> to convert your videos to mp4."
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:89,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:328,
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:45,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:71,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:72,
+#: sailing/inc/widgets/button/button.php:60
+msgid "Text Color"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:94
+msgid "Date Option"
+msgstr "Tùy chọn ngày"
+
+#: sailing/inc/thim-core-function.php:97,
+#: sailing/inc/thim-core-function.php:148,
+#: sailing/inc/thim-core-function.php:155
+msgid "Choose a date"
+msgstr "Chọn một ngày"
+
+#: sailing/inc/thim-core-function.php:101
+msgid "Title From"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:104
+msgid "Register now and be among the first to know more."
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:107
+msgid "ShortCode Form"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:112
+msgid "Copyright Text"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:129
+msgid "Event Options"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:133
+msgid "Use Page Event"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:139
+msgid "Desc"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:145
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: sailing/inc/thim-core-function.php:152
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#: sailing/inc/thim-core-function.php:183
+msgid "Product Setting"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:187
+msgid "Select Loop Item"
+msgstr "Chọn mục vòng lặp"
+
+#: sailing/inc/thim-core-function.php:190,
+#: sailing/elementor-addons/elements/heading/heading.php:227,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:76,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:81,
+#: sailing/elementor-addons/elements/single-post/single-post.php:45,
+#: sailing/elementor-addons/elements/social/social.php:199,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:138,
+#: sailing/inc/widgets/heading/heading.php:78,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:27,
+#: sailing/inc/widgets/icon-box/icon-box.php:48,
+#: sailing/inc/widgets/single-post/single-post.php:20,
+#: sailing/inc/widgets/social/social.php:172
+msgid "Default"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:210
+msgid "Custom Title and Subtitle"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:217
+msgid "Hide Title and Subtitle"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:225,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:165,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:167
+msgid "Custom Title"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:228
+msgid "Leave empty to use post title"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:233,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:53,
+#: sailing/inc/widgets/icon-box/icon-box.php:29
+msgid "Color Title"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:240
+msgid "Subtitle"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:247
+msgid "Color Subtitle"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:254
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:262,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:56,
+#: sailing/elementor-addons/elements/search-room/search-room.php:82,
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:67,
+#: sailing/inc/widgets/info-sale/info-sale.php:32,
+#: sailing/inc/widgets/search-room/search-room.php:50
+msgid "Background Image"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:270,
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:29,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:48,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:49,
+#: sailing/inc/widgets/search-room/search-room.php:41
+msgid "Background color"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:281
+msgid "Use Custom Layout"
+msgstr ""
+
+#: sailing/inc/thim-core-function.php:288
+msgid "Select Layout"
+msgstr ""
+
+#: sailing/page-templates/comingsoon.php:3
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: sailing/page-templates/homepage.php:3,
+#: sailing/elementor-addons/elements/list-post/list-post.php:122,
+#: sailing/inc/widgets/list-post/list-post.php:33
+msgid "Home Page"
+msgstr ""
+
+#: sailing/page-templates/homepagenew.php:3
+msgid "Home Page New"
+msgstr ""
+
+#: sailing/woocommerce/archive-product.php:66,
+#: sailing/elementor-addons/elements/column-post/column-post.php:39,
+#: sailing/elementor-addons/elements/list-post/list-post.php:39,
+#: sailing/inc/widgets/gallery/tpl/base.php:17
+msgid "All"
+msgstr "Tất cả"
+
+#: sailing/woocommerce/content-single-product-lightbox.php:80
+msgid "View Detail"
+msgstr ""
+
+#: sailing/woocommerce/woocommerce.php:124,
+#: sailing/wp-events-manager/content-single-event.php:88
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: sailing/wp-events-manager/archive-event.php:18
+msgid "Happening"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:19
+msgid "Upcoming"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:20,
+#: sailing/wp-events-manager/loop/booking-form.php:95
+msgid "Expired"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:167
+msgid "Days"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:174
+msgid "Hours"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:182
+msgid "Minutes"
+msgstr ""
+
+#: sailing/wp-events-manager/archive-event.php:190
+msgid "Seconds"
+msgstr ""
+
+#: sailing/wp-events-manager/content-single-event.php:50
+msgid "start event"
+msgstr "bắt đầu sự kiện"
+
+#: sailing/wp-events-manager/content-single-event.php:53
+msgid "Start Time"
+msgstr "Thời gian bắt đầu"
+
+#: sailing/wp-events-manager/content-single-event.php:62
+msgid "Finish Time"
+msgstr ""
+
+#: sailing/wp-events-manager/content-single-event.php:72,
+#: sailing/wp-hotel-booking/checkout/customer-new.php:50,
+#: sailing/elementor-addons/elements/google-map/google-map.php:83,
+#: sailing/inc/widgets/google-map/google-map.php:36
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: sailing/wp-events-manager/pagination.php:23
+msgid "Load more"
+msgstr ""
+
+#: sailing/wp-hotel-booking/content-single-room-v2.php:108
+msgid "Explore other options"
+msgstr ""
+
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:19,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:132
+msgid "%s Adult"
+msgid_plural "%s Adults"
+msgstr[0] "%s Người lớn"
+
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:31,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:139
+msgid "%s Child"
+msgid_plural "%s Children"
+msgstr[0] "%s Trẻ em"
+
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:74
+msgid "Register"
+msgstr ""
+
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:80,
+#: sailing/wp-hotel-booking/loop/price.php:35,
+#: sailing/wp-hotel-booking/search/loop.php:55
+msgid "Price:"
+msgstr "Giá:"
+
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:90,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:87,
+#: sailing/wp-hotel-booking/wp-hotel-booking.php:84,
+#: sailing/wp-hotel-booking/loop/price.php:50,
+#: sailing/wp-hotel-booking/loop/price.php:45,
+#: sailing/wp-hotel-booking/loop/price.php:39
+msgid "night"
+msgstr "đêm"
+
+#: sailing/wp-hotel-booking-room/single-search-button.php:28
+msgid "Book This Room"
+msgstr ""
+
+#: sailing/elementor-addons/inc/elementor-helper.php:10
+msgid "Sailing Elementor"
+msgstr ""
+
+#: sailing/inc/admin/customize-options.php:34,
+#: sailing/inc/admin/customizer-sections/general-logo.php:8
+msgid "Logo"
+msgstr ""
+
+#: sailing/inc/data/demos.php:7, /sailing/inc/data/demos.php:184
+msgid "Demo 01"
+msgstr ""
+
+#: sailing/inc/data/demos.php:29, /sailing/inc/data/demos.php:205
+msgid "Demo 08"
+msgstr ""
+
+#: sailing/inc/data/demos.php:51, /sailing/inc/data/demos.php:226
+msgid "Demo 06"
+msgstr ""
+
+#: sailing/inc/data/demos.php:73, /sailing/inc/data/demos.php:247
+msgid "Demo 02"
+msgstr ""
+
+#: sailing/inc/data/demos.php:95, /sailing/inc/data/demos.php:268
+msgid "Demo 03"
+msgstr ""
+
+#: sailing/inc/data/demos.php:117, /sailing/inc/data/demos.php:289
+msgid "Demo 04"
+msgstr ""
+
+#: sailing/inc/data/demos.php:139, /sailing/inc/data/demos.php:310
+msgid "Demo 05"
+msgstr ""
+
+#: sailing/inc/data/demos.php:161, /sailing/inc/data/demos.php:331
+msgid "Demo 07"
+msgstr ""
+
+#: sailing/inc/data/demos.php:352
+msgid "Demo 09"
+msgstr ""
+
+#: sailing/inc/data/demos.php:367
+msgid "Demo 11"
+msgstr ""
+
+#: sailing/inc/header/header_v3.php:49
+msgid "Hit enter to search or ESC to close"
+msgstr ""
+
+#: sailing/inc/templates/heading-top.php:164,
+#: sailing/inc/admin/customizer-sections/hotelbooking.php:11
+msgid "Hotel Booking"
+msgstr ""
+
+#: sailing/inc/templates/heading-top.php:170,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:93
+msgid "Single Room Title"
+msgstr ""
+
+#: sailing/inc/templates/heading-top.php:236
+msgid "Page title"
+msgstr ""
+
+#: sailing/inc/templates/heading-top.php:266
+msgid "Blog"
+msgstr ""
+
+#: sailing/inc/widgets/widgets.php:72
+msgid "Extra Class"
+msgstr ""
+
+#: sailing/woocommerce/loop/pagination.php:31,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:139
+msgid "Load More"
+msgstr ""
+
+#: sailing/woocommerce/single-product/rating.php:35
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: sailing/woocommerce/single-product/rating.php:40
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s đánh giá của khách hàng"
+
+#: sailing/woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr ""
+
+#: sailing/woocommerce/single-product/review.php:49
+msgid "verified owner"
+msgstr ""
+
+#: sailing/woocommerce/single-product/review.php:39,
+#: sailing/wp-hotel-booking/single-room/review.php:41
+msgid "Your comment is awaiting approval"
+msgstr "Bình luận của bạn đang chờ phê duyệt"
+
+#: sailing/woocommerce/single-product/review.php:59,
+#: sailing/wp-hotel-booking/loop/rating.php:23,
+#: sailing/wp-hotel-booking/single-room/review.php:54
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: sailing/woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:18
+msgid "Buy Ticket"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:26
+msgid "Total Slots"
+msgstr "Tổng số vị trí"
+
+#: sailing/wp-events-manager/loop/booking-form.php:30
+msgid "Booked Slots"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:34
+msgid "Cost"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:36
+msgid "/Slot"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:36,
+#: sailing/wp-events-manager/loop/register.php:67
+msgid "Free"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:47,
+#: sailing/wp-events-manager/loop/booking-form.php:41,
+#: sailing/wp-hotel-booking/cart/cart.php:35,
+#: sailing/wp-hotel-booking/checkout/checkout.php:34
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: sailing/wp-events-manager/loop/booking-form.php:60
+msgid "Pay with"
+msgstr "Thanh toán bằng"
+
+#: sailing/wp-events-manager/loop/booking-form.php:83
+msgid "You must set payment setting!"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:109
+msgid "Book Now"
+msgstr "Đặt Ngay"
+
+#: sailing/wp-events-manager/loop/booking-form.php:102
+msgid "Login Now"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:105
+msgid "You must login to our site to book this event!"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/booking-form.php:98
+msgid "Sold Out"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/register.php:20
+msgid "Date & Time:"
+msgstr "Ngày & Giờ:"
+
+#: sailing/wp-events-manager/loop/register.php:38
+msgid "Venue:"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/register.php:51
+msgid "Slot:"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/register.php:57
+msgid "Total Slot:"
+msgstr "Tổng số vị trí"
+
+#: sailing/wp-events-manager/loop/register.php:62
+msgid "Booked Slot:"
+msgstr ""
+
+#: sailing/wp-events-manager/loop/register.php:67
+msgid "Cost:"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:147
+msgid "Your cart is empty!"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:27
+msgid "Cart"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:31
+msgid "Room"
+msgstr "Phòng"
+
+#: sailing/wp-hotel-booking/cart/cart.php:32,
+#: sailing/wp-hotel-booking/checkout/checkout.php:31
+msgid "Checkin - Checkout"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:33,
+#: sailing/wp-hotel-booking/checkout/checkout.php:32
+msgid "Capacity"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:34,
+#: sailing/wp-hotel-booking/checkout/checkout.php:33,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:54
+msgid "Night"
+msgstr "Đêm"
+
+#: sailing/wp-hotel-booking/cart/cart.php:39,
+#: sailing/wp-hotel-booking/checkout/checkout.php:38
+msgid "Deposit Payment"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:44,
+#: sailing/wp-hotel-booking/checkout/checkout.php:43
+msgid "Gross Total"
+msgstr "Tổng cộng"
+
+#: sailing/wp-hotel-booking/cart/cart.php:66,
+#: sailing/wp-hotel-booking/checkout/checkout.php:62
+msgid "%d adult"
+msgid_plural "%d adults"
+msgstr[0] "%d người lớn"
+
+#: sailing/wp-hotel-booking/cart/cart.php:67,
+#: sailing/wp-hotel-booking/checkout/checkout.php:63
+msgid "%d child"
+msgid_plural "%d childs"
+msgstr[0] "%d trẻ em"
+
+#: sailing/wp-hotel-booking/cart/cart.php:86,
+#: sailing/wp-hotel-booking/checkout/checkout.php:80
+msgid "Disable"
+msgstr ""
+
+#: sailing/wp-hotel-booking/cart/cart.php:100,
+#: sailing/wp-hotel-booking/checkout/checkout.php:94,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:101
+msgid "Sub Total"
+msgstr "Tổng cộng"
+
+#: sailing/wp-hotel-booking/cart/cart.php:109,
+#: sailing/wp-hotel-booking/checkout/checkout.php:104,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:107
+msgid "Tax"
+msgstr "Thuế"
+
+#: sailing/wp-hotel-booking/cart/cart.php:111,
+#: sailing/wp-hotel-booking/checkout/checkout.php:106
+msgid "(price including tax)"
+msgstr "(giá đã bao gồm thuế)"
+
+#: sailing/wp-hotel-booking/cart/cart.php:119,
+#: sailing/wp-hotel-booking/checkout/checkout.php:115,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:113
+msgid "Grand Total"
+msgstr "Tổng cộng"
+
+#: sailing/wp-hotel-booking/cart/cart.php:127,
+#: sailing/wp-hotel-booking/checkout/checkout.php:123,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:132
+msgid "Advance Payment"
+msgstr "Thanh toán trước"
+
+#: sailing/wp-hotel-booking/cart/cart.php:138
+msgid "Check Out"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:27
+msgid "Booking Rooms"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:30
+msgid "Room type"
+msgstr "Loại phòng"
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:132
+msgid "I want to pay all"
+msgstr "Tôi muốn trả tất cả"
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:161
+msgid "I agree with "
+msgstr "Tôi đồng ý vớ"
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:166
+msgid "Check out"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/checkout.php:143
+msgid ""
+"You have to <strong><a href=\"%s\">login</a></strong> or <strong><a "
+"href=\"%s\">register</a></strong> to checkout."
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:23
+msgid "New Customer"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:26,
+#: sailing/elementor-addons/elements/column-post/column-post.php:107,
+#: sailing/elementor-addons/elements/google-map/google-map.php:45,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:43,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:45,
+#: sailing/elementor-addons/elements/list-post/list-post.php:134,
+#: sailing/elementor-addons/elements/list-post/list-post.php:136,
+#: sailing/elementor-addons/elements/list-post/list-post.php:221,
+#: sailing/elementor-addons/elements/list-video/list-video.php:120,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:53,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:55,
+#: sailing/elementor-addons/elements/mini-cart-room/mini-cart-room.php:43,
+#: sailing/elementor-addons/elements/mini-cart-room/mini-cart-room.php:45,
+#: sailing/elementor-addons/elements/search-room/search-room.php:57,
+#: sailing/elementor-addons/elements/search-room/search-room.php:59,
+#: sailing/elementor-addons/elements/shortcode/shortcode.php:43,
+#: sailing/elementor-addons/elements/shortcode/shortcode.php:45,
+#: sailing/elementor-addons/elements/single-post/single-post.php:55,
+#: sailing/elementor-addons/elements/single-post/single-post.php:57,
+#: sailing/elementor-addons/elements/social/social.php:43,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:60,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:62,
+#: sailing/elementor-addons/elements/video/video.php:57,
+#: sailing/elementor-addons/elements/video/video.php:59,
+#: sailing/inc/widgets/column-post/column-post.php:47,
+#: sailing/inc/widgets/feature/feature.php:23,
+#: sailing/inc/widgets/google-map/google-map.php:17,
+#: sailing/inc/widgets/icon-box/icon-box.php:22,
+#: sailing/inc/widgets/list-html/list-html.php:23,
+#: sailing/inc/widgets/list-post/list-post.php:45,
+#: sailing/inc/widgets/list-post/list-post.php:120,
+#: sailing/inc/widgets/main-slider/main-slider.php:25,
+#: sailing/inc/widgets/mini-cart-room/mini-cart-room.php:18,
+#: sailing/inc/widgets/search-room/search-room.php:32,
+#: sailing/inc/widgets/shortcode/shortcode.php:18,
+#: sailing/inc/widgets/single-post/single-post.php:30,
+#: sailing/inc/widgets/social/social.php:20,
+#: sailing/inc/widgets/video/video.php:34
+msgid "Title"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:34
+msgid "First name"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:38
+msgid "First name *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:42
+msgid "Last name"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:46
+msgid "Last name*"
+msgstr ""
+"Họ*\n"
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:54
+msgid "Address *"
+msgstr "Địa chỉ *"
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:58
+msgid "City"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:62
+msgid "City *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:68
+msgid "Postal Code"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:72
+msgid "Postal code *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:76
+msgid "Country"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:81
+msgid "Country *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:87
+msgid "Phone"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:91
+msgid "Phone Number *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:99
+msgid "Email address *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:103
+msgid "State"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/customer-new.php:107
+msgid "State *"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:220,
+#: sailing/wp-hotel-booking/checkout/thank-you.php:217
+msgid "Booking invalid"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:32
+msgid ""
+"Thank you! Your booking has been placed. We will contact you to confirm "
+"about the booking soon."
+msgstr ""
+"Cảm ơn! Đặt phòng của bạn đã được đặt. Chúng tôi sẽ liên hệ với bạn để xác "
+"nhận việc đặt phòng sớm."
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:38
+msgid "Booking %s"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:40
+msgid "Date %s"
+msgstr "Ngày %s"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:47
+msgid "Booking Items"
+msgstr "Mục đặt chỗ"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:52
+msgid "Item"
+msgstr "Phòng"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:53
+msgid "Check in - Checkout"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:55
+msgid "Qty"
+msgstr "Số lượng"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:56
+msgid "Total"
+msgstr "Tổng "
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:148
+msgid "Title:"
+msgstr "Tên"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:153
+msgid "First Name:"
+msgstr "Tên"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:158
+msgid "Last Name:"
+msgstr "Họ "
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:163
+msgid "Address:"
+msgstr "Địa chỉ:"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:168
+msgid "City:"
+msgstr "Thành phố"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:173
+msgid "State:"
+msgstr "Quận"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:178
+msgid "Postal Code:"
+msgstr "Mã bưu chính"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:183
+msgid "Country:"
+msgstr "Quốc gia"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:188
+msgid "Phone:"
+msgstr "Điện thoại"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:193
+msgid "Email:"
+msgstr ""
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:200
+msgid "Booking Notes:"
+msgstr "Ghi chú đặt phòng:"
+
+#: sailing/wp-hotel-booking/checkout/thank-you.php:209
+msgid "Payment Instruction"
+msgstr ""
+
+#: sailing/wp-hotel-booking/loop/mini-cart-loop.php:39,
+#: sailing/wp-hotel-booking/search/loop.php:64
+msgid "Quantity: "
+msgstr "Số lượng:"
+
+#: sailing/wp-hotel-booking/loop/mini-cart-loop.php:48
+msgid "Price: "
+msgstr "Giá:"
+
+#: sailing/wp-hotel-booking/loop/price.php:60
+msgid "More Info"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/loop.php:34
+msgid "img"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/loop.php:47
+msgid "Capacity:"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/loop.php:51
+msgid "Max Children:"
+msgstr "Trẻ em tối đa:"
+
+#: sailing/wp-hotel-booking/search/loop.php:58
+msgid "(View price breakdown)"
+msgstr ""
+"\n"
+"(Xem bảng phân tích giá)"
+
+#: sailing/wp-hotel-booking/search/loop.php:71
+msgid "Select"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/loop.php:88
+msgid "Select this room"
+msgstr "Chọn phòng này"
+
+#: sailing/wp-hotel-booking/search/search-form.php:47,
+#: sailing/wp-hotel-booking/search/search.php:38,
+#: sailing/wp-hotel-booking/search/search.php:42
+msgid "Arrival Date"
+msgstr "Ngày đến"
+
+#: sailing/wp-hotel-booking/search/search-form.php:55,
+#: sailing/wp-hotel-booking/search/search.php:47,
+#: sailing/wp-hotel-booking/search/search.php:51
+msgid "Departure Date"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/search-form.php:67,
+#: sailing/wp-hotel-booking/search/search.php:56,
+#: sailing/wp-hotel-booking/search/search.php:64
+msgid "Adults"
+msgstr "Người lớn"
+
+#: sailing/wp-hotel-booking/search/search-form.php:86,
+#: sailing/wp-hotel-booking/search/search.php:76,
+#: sailing/wp-hotel-booking/search/search.php:84,
+#: sailing/inc/widgets/search-room/tpl/default.php:95
+msgid "Children"
+msgstr "Trẻ em"
+
+#: sailing/wp-hotel-booking/search/search-form.php:102,
+#: sailing/wp-hotel-booking/search/search.php:98
+msgid "Check Availability"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/search.php:32
+msgid "Search your room"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/select-extra.php:91,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:92
+msgid "There is no extra option of this room"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/select-extra.php:98,
+#: sailing/wp-hotel-booking/search/select-extra.php:85,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:99,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:86
+msgid "Back to search"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/select-extra.php:100,
+#: sailing/wp-hotel-booking/search/select-extra.php:87,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:101,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:88
+msgid "Next step"
+msgstr ""
+
+#: sailing/wp-hotel-booking/search/select-extra.php:33,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:33
+msgid "Optional Extras"
+msgstr "Tiện ích bổ sung tùy chọn"
+
+#: sailing/wp-hotel-booking/search/select-extra.php:70,
+#: sailing/wp-hotel-booking/search/v2/select-extra-v2.php:71
+msgid "Package"
+msgstr ""
+
+#: sailing/wp-hotel-booking/single-room/details.php:27,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:64,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:66,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:67,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:73,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:75,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:88,
+#: sailing/elementor-addons/elements/video/video.php:80,
+#: sailing/elementor-addons/elements/video/video.php:82,
+#: sailing/inc/widgets/icon-box/icon-box.php:110,
+#: sailing/inc/widgets/main-slider/main-slider.php:30,
+#: sailing/inc/widgets/video/video.php:48
+msgid "Description"
+msgstr ""
+
+#: sailing/wp-hotel-booking/single-room/details.php:45
+msgid "Additional Information"
+msgstr ""
+
+#: sailing/wp-hotel-booking/single-room/details.php:53
+msgid "FAQS"
+msgstr ""
+
+#: sailing/wp-hotel-booking/single-room/details.php:62
+msgid "Room Rules"
+msgstr ""
+
+#: sailing/wp-hotel-booking/single-room/related-room.php:36
+msgid "Other Rooms"
+msgstr ""
+
+#: sailing/wp-hotel-booking-extra/loop/addition-services-title.php:26
+msgid "Addition Services"
+msgstr "Dịch vụ bổ sung"
+
+#: sailing/elementor-addons/elements/box/box.php:17,
+#: sailing/inc/widgets/box/box.php:7
+msgid "Thim: Box Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:38
+msgid "Box Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:45,
+#: sailing/elementor-addons/elements/heading/heading.php:45,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:73,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:88,
+#: sailing/elementor-addons/elements/search-room/search-room.php:44
+msgid "Select Box Style Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:48,
+#: sailing/inc/widgets/box/box.php:20
+msgid "Style Two Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:49,
+#: sailing/inc/widgets/box/box.php:21
+msgid "Style One Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:58,
+#: sailing/inc/widgets/box/box.php:32
+msgid "Image Left"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:72,
+#: sailing/inc/widgets/box/box.php:41
+msgid "Image Right"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:86,
+#: sailing/elementor-addons/elements/button/button.php:68,
+#: sailing/inc/widgets/box/box.php:50, sailing/inc/widgets/button/button.php:36
+msgid "Image Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:100,
+#: sailing/elementor-addons/elements/box/box.php:102,
+#: sailing/inc/widgets/box/box.php:59
+msgid "Small Text Box Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:113,
+#: sailing/elementor-addons/elements/box/box.php:115,
+#: sailing/inc/widgets/box/box.php:68
+msgid "Heading Text Box Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:126,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:238,
+#: sailing/inc/widgets/box/box.php:77,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:188
+msgid "Image Background"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:146,
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:124,
+#: sailing/elementor-addons/elements/single-images/single-images.php:65,
+#: sailing/inc/widgets/box/box.php:87,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:45,
+#: sailing/inc/widgets/single-images/single-images.php:30
+msgid "Image Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/box/box.php:148,
+#: sailing/elementor-addons/elements/button/button.php:55,
+#: sailing/elementor-addons/elements/copyright/copyright.php:78,
+#: sailing/elementor-addons/elements/heading/heading.php:191,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:183,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:279,
+#: sailing/elementor-addons/elements/list-post/list-post.php:258,
+#: sailing/elementor-addons/elements/single-images/single-images.php:67,
+#: sailing/elementor-addons/elements/video/video.php:150
+msgid "https://your-link.com"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:17,
+#: sailing/inc/widgets/button/button.php:7
+msgid "Thim: Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:36
+msgid "Button Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:43
+msgid "Text Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:45,
+#: sailing/inc/widgets/button/button.php:18
+msgid "Button Text"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:53,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:277,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:121,
+#: sailing/elementor-addons/elements/list-video/list-video.php:105,
+#: sailing/elementor-addons/elements/list-video/list-video.php:153,
+#: sailing/elementor-addons/elements/list-video/list-video.php:204,
+#: sailing/elementor-addons/elements/list-video/list-video.php:253,
+#: sailing/elementor-addons/elements/tour/tour.php:67,
+#: sailing/inc/admin/customizer-sections/footer-options.php:72,
+#: sailing/inc/widgets/button/button.php:22,
+#: sailing/inc/widgets/info-sale/info-sale.php:71,
+#: sailing/inc/widgets/list-video/list-video.php:101,
+#: sailing/inc/widgets/list-video/list-video.php:135,
+#: sailing/inc/widgets/list-video/list-video.php:169,
+#: sailing/inc/widgets/main-slider/main-slider.php:39,
+#: sailing/inc/widgets/single-post/single-post.php:66,
+#: sailing/inc/widgets/tour/tour.php:32
+msgid "Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:81
+msgid "Custom Style Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:88,
+#: sailing/inc/widgets/button/button.php:41,
+#: sailing/inc/widgets/button/button.php:46
+msgid "Custom Style"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:91,
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:98,
+#: sailing/elementor-addons/elements/heading/heading.php:164,
+#: sailing/elementor-addons/elements/heading/heading.php:210,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:155,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:143,
+#: sailing/elementor-addons/elements/single-images/single-images.php:97,
+#: sailing/elementor-addons/elements/single-post/single-post.php:82,
+#: sailing/elementor-addons/elements/single-post/single-post.php:99,
+#: sailing/elementor-addons/elements/single-post/single-post.php:164,
+#: sailing/inc/admin/customizer-sections/general-featured.php:37,
+#: sailing/inc/widgets/button/button.php:49,
+#: sailing/inc/widgets/counters-box/counters-box.php:47,
+#: sailing/inc/widgets/heading/heading.php:172,
+#: sailing/inc/widgets/heading/heading.php:218,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:101,
+#: sailing/inc/widgets/icon-box/icon-box.php:482,
+#: sailing/inc/widgets/icon-box/icon-box.php:514,
+#: sailing/inc/widgets/list-post/list-post.php:105,
+#: sailing/inc/widgets/single-images/single-images.php:55,
+#: sailing/inc/widgets/single-post/single-post.php:39,
+#: sailing/inc/widgets/single-post/single-post.php:53,
+#: sailing/inc/widgets/single-post/single-post.php:119
+msgid "No"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:92,
+#: sailing/elementor-addons/elements/heading/heading.php:163,
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:154,
+#: sailing/elementor-addons/elements/single-post/single-post.php:81,
+#: sailing/elementor-addons/elements/single-post/single-post.php:98,
+#: sailing/elementor-addons/elements/single-post/single-post.php:163,
+#: sailing/inc/widgets/button/button.php:50,
+#: sailing/inc/widgets/heading/heading.php:171,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:100,
+#: sailing/inc/widgets/icon-box/icon-box.php:483,
+#: sailing/inc/widgets/list-post/list-post.php:106,
+#: sailing/inc/widgets/single-post/single-post.php:38,
+#: sailing/inc/widgets/single-post/single-post.php:52,
+#: sailing/inc/widgets/single-post/single-post.php:118
+msgid "Yes"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:101
+msgid "Button color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:113,
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:52,
+#: sailing/inc/admin/customizer-sections/header-mobile.php:76
+msgid "Text color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:125,
+#: sailing/inc/widgets/button/button.php:65
+msgid "Button Hover Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/button/button.php:137,
+#: sailing/inc/widgets/button/button.php:70
+msgid "Text Hover Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:17
+msgid "Thim: Column Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:61
+msgid "Column Post Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:68,
+#: sailing/elementor-addons/elements/gallery/gallery.php:39,
+#: sailing/elementor-addons/elements/gallery/gallery.php:72,
+#: sailing/elementor-addons/elements/list-post/list-post.php:173,
+#: sailing/inc/widgets/gallery/gallery.php:19
+msgid "Select Category"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:79,
+#: sailing/elementor-addons/elements/list-post/list-post.php:207,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:99,
+#: sailing/inc/widgets/column-post/column-post.php:29,
+#: sailing/inc/widgets/list-post/list-post.php:111
+msgid "Number Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:88,
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:51
+msgid "Column Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:91,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:38,
+#: sailing/inc/widgets/column-post/column-post.php:36
+msgid "2"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:92,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:39,
+#: sailing/inc/widgets/column-post/column-post.php:37
+msgid "3"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:93,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:40,
+#: sailing/inc/widgets/column-post/column-post.php:38
+msgid "4"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:102,
+#: sailing/elementor-addons/elements/list-post/list-post.php:216
+msgid "Oder By"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:105,
+#: sailing/elementor-addons/elements/list-post/list-post.php:219,
+#: sailing/inc/widgets/column-post/column-post.php:45,
+#: sailing/inc/widgets/list-post/list-post.php:118
+msgid "Popular"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:106,
+#: sailing/elementor-addons/elements/list-post/list-post.php:220,
+#: sailing/inc/widgets/column-post/column-post.php:46,
+#: sailing/inc/widgets/list-post/list-post.php:119
+msgid "Recent"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:108,
+#: sailing/elementor-addons/elements/list-post/list-post.php:222,
+#: sailing/inc/widgets/column-post/column-post.php:48,
+#: sailing/inc/widgets/list-post/list-post.php:121
+msgid "Random"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:117,
+#: sailing/elementor-addons/elements/list-post/list-post.php:231
+msgid "Sort By"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:120,
+#: sailing/elementor-addons/elements/list-post/list-post.php:234,
+#: sailing/inc/widgets/column-post/column-post.php:55,
+#: sailing/inc/widgets/list-post/list-post.php:128
+msgid "ASC"
+msgstr ""
+
+#: sailing/elementor-addons/elements/column-post/column-post.php:121,
+#: sailing/elementor-addons/elements/list-post/list-post.php:235,
+#: sailing/inc/widgets/column-post/column-post.php:56,
+#: sailing/inc/widgets/list-post/list-post.php:129
+msgid "DESC"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:17,
+#: sailing/inc/widgets/copyright/copyright.php:15
+msgid "Thim: Copyright"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:36
+msgid "Copyright Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:43,
+#: sailing/inc/widgets/copyright/copyright.php:25
+msgid "First Text"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:45,
+#: sailing/elementor-addons/elements/copyright/copyright.php:56,
+#: sailing/elementor-addons/elements/copyright/copyright.php:67,
+#: sailing/elementor-addons/elements/copyright/copyright.php:93,
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:48,
+#: sailing/elementor-addons/elements/feature/feature.php:47,
+#: sailing/elementor-addons/elements/feature/feature.php:57,
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:158,
+#: sailing/elementor-addons/elements/google-map/google-map.php:47,
+#: sailing/elementor-addons/elements/google-map/google-map.php:69,
+#: sailing/elementor-addons/elements/google-map/google-map.php:98,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:58,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:73,
+#: sailing/elementor-addons/elements/list-html/list-html.php:47,
+#: sailing/elementor-addons/elements/list-html/list-html.php:57,
+#: sailing/elementor-addons/elements/social/social.php:45,
+#: sailing/elementor-addons/elements/tour/tour.php:58
+msgid "Add your text here"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:54,
+#: sailing/inc/widgets/copyright/copyright.php:30
+msgid "Year"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:65,
+#: sailing/inc/widgets/copyright/copyright.php:35
+msgid "Site Name"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:76,
+#: sailing/inc/widgets/copyright/copyright.php:40
+msgid "Link Site"
+msgstr ""
+
+#: sailing/elementor-addons/elements/copyright/copyright.php:91,
+#: sailing/inc/widgets/copyright/copyright.php:45
+msgid "Last Text"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:17,
+#: sailing/inc/widgets/counters-box/counters-box.php:8
+msgid "Thim: Counters Box"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:39
+msgid "Counters Box Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:46
+msgid "Counters Label"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:57,
+#: sailing/inc/widgets/counters-box/counters-box.php:24
+msgid "Counters Value"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:68,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:396,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:422,
+#: sailing/inc/widgets/icon-box/icon-box.php:265,
+#: sailing/inc/widgets/icon-box/icon-box.php:294
+msgid "Select Icon:"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:70,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:398,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:424
+msgid "Choose..."
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:77
+msgid "Border Icon Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:86
+msgid "Counters Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:95,
+#: sailing/elementor-addons/elements/heading/heading.php:207,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:140,
+#: sailing/elementor-addons/elements/single-images/single-images.php:94,
+#: sailing/inc/widgets/counters-box/counters-box.php:45,
+#: sailing/inc/widgets/heading/heading.php:216,
+#: sailing/inc/widgets/icon-box/icon-box.php:512,
+#: sailing/inc/widgets/single-images/single-images.php:53
+msgid "CSS Animation"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:99,
+#: sailing/elementor-addons/elements/heading/heading.php:211,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:144,
+#: sailing/elementor-addons/elements/single-images/single-images.php:98,
+#: sailing/inc/widgets/counters-box/counters-box.php:48,
+#: sailing/inc/widgets/heading/heading.php:219,
+#: sailing/inc/widgets/icon-box/icon-box.php:515,
+#: sailing/inc/widgets/single-images/single-images.php:56
+msgid "Top to bottom"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:100,
+#: sailing/elementor-addons/elements/heading/heading.php:212,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:145,
+#: sailing/elementor-addons/elements/single-images/single-images.php:99,
+#: sailing/inc/widgets/counters-box/counters-box.php:49,
+#: sailing/inc/widgets/heading/heading.php:220,
+#: sailing/inc/widgets/icon-box/icon-box.php:516,
+#: sailing/inc/widgets/single-images/single-images.php:57
+msgid "Bottom to top"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:101,
+#: sailing/elementor-addons/elements/heading/heading.php:213,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:146,
+#: sailing/elementor-addons/elements/single-images/single-images.php:100,
+#: sailing/inc/widgets/counters-box/counters-box.php:50,
+#: sailing/inc/widgets/heading/heading.php:221,
+#: sailing/inc/widgets/icon-box/icon-box.php:517,
+#: sailing/inc/widgets/single-images/single-images.php:58
+msgid "Left to right"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:102,
+#: sailing/elementor-addons/elements/heading/heading.php:214,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:147,
+#: sailing/elementor-addons/elements/single-images/single-images.php:101,
+#: sailing/inc/widgets/counters-box/counters-box.php:51,
+#: sailing/inc/widgets/heading/heading.php:222,
+#: sailing/inc/widgets/icon-box/icon-box.php:518,
+#: sailing/inc/widgets/single-images/single-images.php:59
+msgid "Right to left"
+msgstr ""
+
+#: sailing/elementor-addons/elements/counters-box/counters-box.php:103,
+#: sailing/elementor-addons/elements/heading/heading.php:215,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:148,
+#: sailing/elementor-addons/elements/single-images/single-images.php:102,
+#: sailing/inc/widgets/counters-box/counters-box.php:52,
+#: sailing/inc/widgets/heading/heading.php:223,
+#: sailing/inc/widgets/icon-box/icon-box.php:519,
+#: sailing/inc/widgets/single-images/single-images.php:60
+msgid "Appear from center"
+msgstr ""
+
+#: sailing/elementor-addons/elements/feature/feature.php:17
+msgid "Thim: Featured"
+msgstr "Thim: Nổi bất"
+
+#: sailing/elementor-addons/elements/feature/feature.php:36
+msgid "Featured Settings"
+msgstr "Cài đặt nổi bật"
+
+#: sailing/elementor-addons/elements/feature/feature.php:45,
+#: sailing/elementor-addons/elements/list-html/list-html.php:45
+msgid "Panel Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/feature/feature.php:55,
+#: sailing/elementor-addons/elements/list-html/list-html.php:55
+msgid "Panel Body"
+msgstr ""
+
+#: sailing/elementor-addons/elements/feature/feature.php:65,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:131,
+#: sailing/elementor-addons/elements/list-html/list-html.php:65,
+#: sailing/elementor-addons/elements/list-video/list-video.php:164,
+#: sailing/elementor-addons/elements/list-video/list-video.php:214,
+#: sailing/elementor-addons/elements/list-video/list-video.php:263,
+#: sailing/elementor-addons/elements/social/social.php:249,
+#: sailing/elementor-addons/elements/tour/tour.php:100
+msgid "Panel List"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery/gallery.php:17
+msgid "Thim: Filter Gallery"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery/gallery.php:65
+msgid "Gallery Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery/gallery.php:83,
+#: sailing/inc/widgets/gallery/gallery.php:25
+msgid "Limit Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:17
+msgid "Thim: Gallery Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:44
+msgid "Gallery Image Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:54,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:22
+msgid "Gallery Slider"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:55,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:23
+msgid "Gallery Column"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:106
+msgid "Add Images"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:126,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:46
+msgid ""
+"Enter URL if you want this image to have a link. These links are separated "
+"by comma (Ex: #,#,#,#)"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:128
+msgid "Add your links here"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:135,
+#: sailing/elementor-addons/elements/social/social.php:183,
+#: sailing/inc/widgets/box/box.php:92,
+#: sailing/inc/widgets/button/button.php:27,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:50,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:137,
+#: sailing/inc/widgets/single-images/single-images.php:35,
+#: sailing/inc/widgets/social/social.php:161
+msgid "Link Target"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:139,
+#: sailing/elementor-addons/elements/social/social.php:186,
+#: sailing/inc/widgets/box/box.php:94,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:52,
+#: sailing/inc/widgets/heading/heading.php:206,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:140,
+#: sailing/inc/widgets/single-images/single-images.php:37,
+#: sailing/inc/widgets/social/social.php:163
+msgid "Same window"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:143,
+#: sailing/elementor-addons/elements/social/social.php:187,
+#: sailing/inc/widgets/box/box.php:95,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:53,
+#: sailing/inc/widgets/heading/heading.php:207,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:141,
+#: sailing/inc/widgets/single-images/single-images.php:38,
+#: sailing/inc/widgets/social/social.php:164
+msgid "New window"
+msgstr ""
+
+#: sailing/elementor-addons/elements/gallery-images/gallery-images.php:156
+msgid "Show Text Gallery"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:17,
+#: sailing/inc/widgets/google-map/google-map.php:7
+msgid "Thim: Google Maps"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:38
+msgid "Google Maps"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:54,
+#: sailing/inc/widgets/google-map/google-map.php:21
+msgid "Google map Options"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:57,
+#: sailing/inc/widgets/google-map/google-map.php:23
+msgid "Use API"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:58,
+#: sailing/inc/widgets/google-map/google-map.php:24
+msgid "Use Map Iframe"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:66
+msgid "Google Map API Key"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:67
+msgid ""
+"Enter your Google Map API Key. Refer on https://developers.google."
+"com/maps/documentation/javascript/get-api-key#get-an-api-key"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:80,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:29,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:29,
+#: sailing/inc/admin/customizer-sections/general-styling-layout.php:5
+msgid "Layout"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:84,
+#: sailing/inc/widgets/google-map/google-map.php:37,
+#: sailing/inc/widgets/google-map/google-map.php:51
+msgid "Coordinates"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:96
+msgid "Location"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:109,
+#: sailing/inc/widgets/google-map/google-map.php:62
+msgid "Lat"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:122,
+#: sailing/inc/widgets/google-map/google-map.php:67
+msgid "Lng"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:135
+msgid "Height (px)"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:146
+msgid "Zoom Level"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:166
+msgid "Scroll To Zoom"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:178,
+#: sailing/inc/widgets/google-map/google-map.php:122
+msgid "Draggable"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:192,
+#: sailing/inc/widgets/google-map/google-map.php:133
+msgid "Markers"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:202,
+#: sailing/inc/widgets/google-map/google-map.php:144
+msgid "Show marker at map center"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:211,
+#: sailing/inc/widgets/google-map/google-map.php:149
+msgid "Marker Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:212,
+#: sailing/inc/widgets/google-map/google-map.php:150
+msgid "Replaces the default map marker with your own image."
+msgstr "Thay thế điểm đánh dấu bản đồ mặc định bằng hình ảnh của riêng bạn."
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:221,
+#: sailing/inc/widgets/google-map/google-map.php:160
+msgid "Place"
+msgstr ""
+
+#: sailing/elementor-addons/elements/google-map/google-map.php:230
+msgid "Marker Positions"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:17,
+#: sailing/inc/widgets/heading/heading.php:7
+msgid "Thim: Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:38
+msgid "Heading Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:48,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:46,
+#: sailing/elementor-addons/elements/search-room/search-room.php:47,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:46,
+#: sailing/elementor-addons/elements/video/video.php:47,
+#: sailing/inc/widgets/heading/heading.php:21,
+#: sailing/inc/widgets/search-room/search-room.php:21,
+#: sailing/inc/widgets/testimonials/testimonials.php:21,
+#: sailing/inc/widgets/video/video.php:23
+msgid "Style Old"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:49,
+#: sailing/elementor-addons/elements/search-room/search-room.php:48,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:47,
+#: sailing/elementor-addons/elements/video/video.php:46,
+#: sailing/inc/widgets/heading/heading.php:22,
+#: sailing/inc/widgets/search-room/search-room.php:22,
+#: sailing/inc/widgets/testimonials/testimonials.php:22,
+#: sailing/inc/widgets/video/video.php:22
+msgid "Style New"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:58,
+#: sailing/elementor-addons/elements/heading/heading.php:60,
+#: sailing/inc/widgets/heading/heading.php:32
+msgid "Small Heading Text"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:71,
+#: sailing/elementor-addons/elements/heading/heading.php:73
+msgid "Heading Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:81,
+#: sailing/inc/widgets/heading/heading.php:140
+msgid "Sub Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:83,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:186,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:114,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:115,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:114,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:115
+msgid "Sub Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:94,
+#: sailing/inc/widgets/heading/heading.php:149
+msgid "Background Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:96,
+#: sailing/elementor-addons/elements/list-post/list-post.php:159,
+#: sailing/elementor-addons/elements/list-post/list-post.php:161,
+#: sailing/elementor-addons/elements/list-video/list-video.php:67,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:86,
+#: sailing/elementor-addons/elements/video/video.php:67,
+#: sailing/elementor-addons/elements/video/video.php:69,
+#: sailing/inc/widgets/list-post/list-post.php:70,
+#: sailing/inc/widgets/list-video/list-video.php:39,
+#: sailing/inc/widgets/video/video.php:39
+msgid "Background Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:107
+msgid "Description Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:109
+msgid "Description Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:120,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:91,
+#: sailing/inc/widgets/heading/heading.php:46,
+#: sailing/inc/widgets/icon-box/icon-box.php:104
+msgid "Show Separator"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:132
+msgid "Text Heading Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:144,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:62,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:550,
+#: sailing/inc/widgets/heading/heading.php:63,
+#: sailing/inc/widgets/icon-box/icon-box.php:33
+msgid "Size Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:147,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:65
+msgid "H2"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:148,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:66
+msgid "H3"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:149,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:67
+msgid "H4"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:150,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:68
+msgid "H5"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:151,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:69
+msgid "H6"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:160
+msgid "Show Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:176,
+#: sailing/inc/widgets/heading/heading.php:186
+msgid "Title Button Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:178
+msgid "Title Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:189
+msgid "Link Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:224,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:78
+msgid "Style Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:228,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:82,
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:54,
+#: sailing/inc/widgets/heading/heading.php:79,
+#: sailing/inc/widgets/icon-box/icon-box.php:49
+msgid "Custom"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:239,
+#: sailing/inc/widgets/heading/heading.php:89
+msgid "Custom Font Heading"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:249,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:169,
+#: sailing/inc/widgets/heading/heading.php:98,
+#: sailing/inc/widgets/icon-box/icon-box.php:68
+msgid "Font Size"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:258,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:178,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:237,
+#: sailing/inc/widgets/heading/heading.php:106,
+#: sailing/inc/widgets/icon-box/icon-box.php:76,
+#: sailing/inc/widgets/icon-box/icon-box.php:130
+msgid "Custom Font Weight"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:262,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:182,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:241,
+#: sailing/inc/widgets/heading/heading.php:109,
+#: sailing/inc/widgets/icon-box/icon-box.php:80,
+#: sailing/inc/widgets/icon-box/icon-box.php:134
+msgid "Bold"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:263,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:183,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:242,
+#: sailing/inc/widgets/heading/heading.php:110,
+#: sailing/inc/widgets/icon-box/icon-box.php:81,
+#: sailing/inc/widgets/icon-box/icon-box.php:135
+msgid "100"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:264,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:184,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:243,
+#: sailing/inc/widgets/heading/heading.php:111,
+#: sailing/inc/widgets/icon-box/icon-box.php:82,
+#: sailing/inc/widgets/icon-box/icon-box.php:136
+msgid "200"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:265,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:185,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:244,
+#: sailing/inc/widgets/heading/heading.php:112,
+#: sailing/inc/widgets/icon-box/icon-box.php:83,
+#: sailing/inc/widgets/icon-box/icon-box.php:137
+msgid "300"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:266,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:186,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:245,
+#: sailing/inc/widgets/heading/heading.php:113,
+#: sailing/inc/widgets/icon-box/icon-box.php:84,
+#: sailing/inc/widgets/icon-box/icon-box.php:138
+msgid "400"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:267,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:187,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:246,
+#: sailing/inc/widgets/heading/heading.php:114,
+#: sailing/inc/widgets/icon-box/icon-box.php:85,
+#: sailing/inc/widgets/icon-box/icon-box.php:139
+msgid "500"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:268,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:188,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:247,
+#: sailing/inc/widgets/heading/heading.php:115,
+#: sailing/inc/widgets/icon-box/icon-box.php:86,
+#: sailing/inc/widgets/icon-box/icon-box.php:140
+msgid "600"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:269,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:189,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:248,
+#: sailing/inc/widgets/heading/heading.php:116,
+#: sailing/inc/widgets/icon-box/icon-box.php:87,
+#: sailing/inc/widgets/icon-box/icon-box.php:141
+msgid "700"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:270,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:190,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:249,
+#: sailing/inc/widgets/heading/heading.php:117,
+#: sailing/inc/widgets/icon-box/icon-box.php:88,
+#: sailing/inc/widgets/icon-box/icon-box.php:142
+msgid "800"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:271,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:191,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:250,
+#: sailing/inc/widgets/heading/heading.php:118,
+#: sailing/inc/widgets/icon-box/icon-box.php:89,
+#: sailing/inc/widgets/icon-box/icon-box.php:143
+msgid "900"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:280,
+#: sailing/inc/widgets/heading/heading.php:125
+msgid "Custom Font Style"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:283
+msgid "Inherit"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:284
+msgid "Initial"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:285
+msgid "Italic"
+msgstr ""
+
+#: sailing/elementor-addons/elements/heading/heading.php:287
+msgid "Oblique"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:17,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:15
+msgid "Thim: Room Slider"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:66
+msgid "Room Slider Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:77,
+#: sailing/elementor-addons/elements/list-video/list-video.php:49,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:49,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:28,
+#: sailing/inc/widgets/list-video/list-video.php:24,
+#: sailing/inc/widgets/testimonials/testimonials.php:24
+msgid "Style 2"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:78,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:50,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:29,
+#: sailing/inc/widgets/testimonials/testimonials.php:25
+msgid "Style 3"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:79,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:51,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:30,
+#: sailing/inc/widgets/testimonials/testimonials.php:26
+msgid "Style 4"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:91,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:41
+msgid "Room Type"
+msgstr "Loại phòng"
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:92,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:42
+msgid "Latest Rooms"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:93,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:43
+msgid "Best Review"
+msgstr "Đánh giá tốt nhất"
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:94,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:44
+msgid "Last Review"
+msgstr "Đánh giá lần cuối"
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:95,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:45
+msgid "ID Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:104,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:55
+msgid "Select Room Type"
+msgstr "Chọn loại phòng"
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:117
+msgid "Room ID List"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:119,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:70
+msgid "Room ID list ex: 123,231 ..."
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:130,
+#: sailing/elementor-addons/elements/tour/tour.php:111
+msgid "Number Of Items"
+msgstr "Số lượng phòng"
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:142,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:92
+msgid "Number of rooms to show"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:151
+msgid "Show Text All Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:167
+msgid "Text Link Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:169
+msgid "Add text in button link all room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:181
+msgid "Link Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:199
+msgid "Show Pagination"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:210
+msgid "Show Navigation"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:222,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:173
+msgid "Nagination Position"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:225,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:568,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:176
+msgid "Top"
+msgstr ""
+
+#: sailing/elementor-addons/elements/hotel-room/hotel-room.php:226,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:177
+msgid "Bottom"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:17,
+#: sailing/inc/widgets/icon-box/icon-box.php:7
+msgid "Thim: Icon Box"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:36
+msgid "Icon Box Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:100,
+#: sailing/inc/widgets/icon-box/icon-box.php:424
+msgid "Widget Background"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:103,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:553,
+#: sailing/inc/widgets/icon-box/icon-box.php:392
+msgid "None"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:104
+msgid "Video Background"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:113
+msgid "Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:114
+msgid ""
+"Select an uploaded video in mp4 format. Other formats, such as webm and ogv "
+"will work in some browsers. You can use an online service such as 'http:"
+"//video.online-convert.com/convert-to-mp4' to convert your videos to mp4."
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:126
+msgid "Cover Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:159
+msgid "Custom Heading Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:200
+msgid "Margin Bottom"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:211
+msgid "Description Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:218,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:220,
+#: sailing/inc/widgets/icon-box/icon-box.php:115
+msgid "Add description"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:228,
+#: sailing/inc/widgets/icon-box/icon-box.php:122
+msgid "Custom Font Size"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:259,
+#: sailing/inc/widgets/icon-box/icon-box.php:149
+msgid "Color Description"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:270
+msgid "Read More Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:292,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:382
+msgid "Apply Link To"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:295
+msgid "Complete Box"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:296
+msgid "Box Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:297
+msgid "Display Read More"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:308
+msgid "Button Read More Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:318,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:320,
+#: sailing/inc/widgets/icon-box/icon-box.php:193
+msgid "Read More Text"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:346,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:505,
+#: sailing/elementor-addons/elements/search-room/search-room.php:70
+msgid "Background Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:355
+msgid "Color Hover"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:364
+msgid "Background Color Hover"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:375
+msgid "Icon Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:385,
+#: sailing/inc/widgets/icon-box/icon-box.php:283
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:386
+msgid "Font 7 stroke Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:387,
+#: sailing/inc/widgets/icon-box/icon-box.php:312
+msgid "Custom Image Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:408,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:436
+msgid "Icon Font Size (px)"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:450
+msgid "Choose Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:464,
+#: sailing/inc/widgets/icon-box/icon-box.php:334
+msgid "Width Box Icon"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:477
+msgid "Color Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:487
+msgid "Icon Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:514
+msgid "Hover Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:523
+msgid "Boder Hover Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:532
+msgid "Background Hover Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:543
+msgid "Layout Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:554,
+#: sailing/inc/widgets/icon-box/icon-box.php:393
+msgid "Circle"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:563
+msgid "Icon Position"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:566,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:580,
+#: sailing/elementor-addons/elements/list-post/list-post.php:146,
+#: sailing/elementor-addons/elements/single-post/single-post.php:67,
+#: sailing/elementor-addons/elements/single-post/single-post.php:149,
+#: sailing/inc/widgets/list-post/list-post.php:54,
+#: sailing/inc/widgets/single-post/single-post.php:91,
+#: sailing/inc/widgets/single-post/single-post.php:107
+msgid "Left"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:567,
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:581,
+#: sailing/elementor-addons/elements/list-post/list-post.php:147,
+#: sailing/elementor-addons/elements/single-post/single-post.php:68,
+#: sailing/elementor-addons/elements/single-post/single-post.php:150,
+#: sailing/inc/widgets/list-post/list-post.php:55,
+#: sailing/inc/widgets/single-post/single-post.php:92,
+#: sailing/inc/widgets/single-post/single-post.php:108
+msgid "Right"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:577
+msgid "Text Align"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:582,
+#: sailing/elementor-addons/elements/list-post/list-post.php:148,
+#: sailing/elementor-addons/elements/single-post/single-post.php:69,
+#: sailing/inc/widgets/list-post/list-post.php:56,
+#: sailing/inc/widgets/single-post/single-post.php:93
+msgid "Center"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:593,
+#: sailing/elementor-addons/elements/video/video.php:36
+msgid "Video Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:603,
+#: sailing/inc/widgets/icon-box/icon-box.php:470,
+#: sailing/inc/widgets/main-slider/main-slider.php:44
+msgid "Auto Play"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:612
+msgid "Auto Hiden"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:621,
+#: sailing/inc/widgets/icon-box/icon-box.php:490
+msgid "Muted"
+msgstr ""
+
+#: sailing/elementor-addons/elements/icon-box/icon-box.php:630,
+#: sailing/inc/widgets/icon-box/icon-box.php:500
+msgid "Loop"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:17,
+#: sailing/inc/widgets/info-sale/info-sale.php:8
+msgid "Thim: Info Sale"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:36
+msgid "Info Sale Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:43
+msgid "Select Style"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:47,
+#: sailing/elementor-addons/elements/list-video/list-video.php:48,
+#: sailing/elementor-addons/elements/single-post/single-post.php:46,
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:48,
+#: sailing/elementor-addons/elements/video/video.php:48,
+#: sailing/inc/widgets/info-sale/info-sale.php:22,
+#: sailing/inc/widgets/list-video/list-video.php:23,
+#: sailing/inc/widgets/single-post/single-post.php:21,
+#: sailing/inc/widgets/testimonials/testimonials.php:23,
+#: sailing/inc/widgets/video/video.php:24
+msgid "Style 1"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:71,
+#: sailing/elementor-addons/elements/single-images/single-images.php:43,
+#: sailing/elementor-addons/elements/tour/tour.php:45,
+#: sailing/inc/admin/customizer-sections/general-featured.php:36,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:34,
+#: sailing/inc/widgets/info-sale/info-sale.php:46,
+#: sailing/inc/widgets/list-video/list-video.php:34,
+#: sailing/inc/widgets/single-images/single-images.php:19,
+#: sailing/inc/widgets/tour/tour.php:22
+msgid "Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:81,
+#: sailing/inc/widgets/info-sale/info-sale.php:51
+msgid "Primary Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:83,
+#: sailing/inc/widgets/info-sale/info-sale.php:52
+msgid "Savings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:91,
+#: sailing/inc/widgets/info-sale/info-sale.php:56
+msgid "Second Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:93,
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:103,
+#: sailing/inc/widgets/info-sale/info-sale.php:57,
+#: sailing/inc/widgets/info-sale/info-sale.php:62
+msgid "Red Hot Summer"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:101,
+#: sailing/inc/widgets/info-sale/info-sale.php:61
+msgid "Short Content"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:111,
+#: sailing/elementor-addons/elements/list-post/list-post.php:244,
+#: sailing/elementor-addons/elements/list-post/list-post.php:246,
+#: sailing/elementor-addons/elements/list-video/list-video.php:93,
+#: sailing/elementor-addons/elements/list-video/list-video.php:142,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:74,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:76,
+#: sailing/elementor-addons/elements/single-post/single-post.php:112,
+#: sailing/elementor-addons/elements/single-post/single-post.php:114,
+#: sailing/elementor-addons/elements/single-post/single-post.php:174,
+#: sailing/inc/widgets/info-sale/info-sale.php:66,
+#: sailing/inc/widgets/list-post/list-post.php:145,
+#: sailing/inc/widgets/list-video/list-video.php:60,
+#: sailing/inc/widgets/list-video/list-video.php:96,
+#: sailing/inc/widgets/main-slider/main-slider.php:34,
+#: sailing/inc/widgets/single-post/single-post.php:77,
+#: sailing/inc/widgets/single-post/single-post.php:133
+msgid "Text Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:113,
+#: sailing/elementor-addons/elements/list-video/list-video.php:144,
+#: sailing/inc/widgets/info-sale/info-sale.php:67
+msgid "Learn more"
+msgstr ""
+
+#: sailing/elementor-addons/elements/info-sale/info-sale.php:123,
+#: sailing/elementor-addons/elements/list-video/list-video.php:107,
+#: sailing/elementor-addons/elements/list-video/list-video.php:155,
+#: sailing/elementor-addons/elements/list-video/list-video.php:206,
+#: sailing/elementor-addons/elements/list-video/list-video.php:255,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:86,
+#: sailing/elementor-addons/elements/single-post/single-post.php:126,
+#: sailing/inc/widgets/button/button.php:23,
+#: sailing/inc/widgets/info-sale/info-sale.php:72,
+#: sailing/inc/widgets/list-video/list-video.php:71,
+#: sailing/inc/widgets/list-video/list-video.php:102,
+#: sailing/inc/widgets/list-video/list-video.php:136,
+#: sailing/inc/widgets/list-video/list-video.php:170,
+#: sailing/inc/widgets/single-post/single-post.php:67
+msgid "#"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-html/list-html.php:17
+msgid "Thim: List Html"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-html/list-html.php:36
+msgid "List Html Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:17
+msgid "Thim: List Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:93,
+#: sailing/inc/widgets/list-post/list-post.php:7
+msgid "No Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:111
+msgid "List Post Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:118,
+#: sailing/elementor-addons/elements/single-post/single-post.php:42,
+#: sailing/inc/widgets/list-post/list-post.php:30,
+#: sailing/inc/widgets/single-post/single-post.php:18
+msgid "Style"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:121,
+#: sailing/inc/widgets/list-post/list-post.php:32
+msgid "No Style"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:124,
+#: sailing/inc/widgets/list-post/list-post.php:35
+msgid "Slider 1"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:125,
+#: sailing/inc/widgets/list-post/list-post.php:36
+msgid "Slider 2"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:143
+msgid "Position Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:184
+msgid "Select Size Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:198,
+#: sailing/inc/widgets/list-post/list-post.php:102
+msgid "Show Description"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-post/list-post.php:256,
+#: sailing/elementor-addons/elements/single-post/single-post.php:124,
+#: sailing/inc/widgets/list-post/list-post.php:134
+msgid "Link All Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:17,
+#: sailing/inc/widgets/list-video/list-video.php:9
+msgid "Thim: List Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:36
+msgid "List Video Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:43,
+#: sailing/elementor-addons/elements/video/video.php:43,
+#: sailing/inc/widgets/list-video/list-video.php:19,
+#: sailing/inc/widgets/list-video/list-video.php:124,
+#: sailing/inc/widgets/list-video/list-video.php:158,
+#: sailing/inc/widgets/video/video.php:19
+msgid "Layout Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:47,
+#: sailing/inc/widgets/list-video/list-video.php:22
+msgid "Style Default"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:51,
+#: sailing/inc/widgets/list-video/list-video.php:26,
+#: sailing/inc/widgets/video/video.php:26
+msgid "Select layout video."
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:58
+msgid "Background Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:60,
+#: sailing/elementor-addons/elements/list-video/list-video.php:183,
+#: sailing/elementor-addons/elements/list-video/list-video.php:232,
+#: sailing/inc/widgets/box/box.php:33, /sailing/inc/widgets/box/box.php:42,
+#: sailing/inc/widgets/box/box.php:51, /sailing/inc/widgets/box/box.php:78,
+#: sailing/inc/widgets/button/button.php:37,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:35,
+#: sailing/inc/widgets/hotel-room/hotel-room.php:189,
+#: sailing/inc/widgets/info-sale/info-sale.php:33,
+#: sailing/inc/widgets/info-sale/info-sale.php:47,
+#: sailing/inc/widgets/list-video/list-video.php:35,
+#: sailing/inc/widgets/list-video/list-video.php:119,
+#: sailing/inc/widgets/list-video/list-video.php:153,
+#: sailing/inc/widgets/single-images/single-images.php:20,
+#: sailing/inc/widgets/tour/tour.php:23
+msgid "Select image from media library."
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:69,
+#: sailing/inc/widgets/list-video/list-video.php:40
+msgid "Amazing Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:80
+msgid "Video Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:82,
+#: sailing/inc/widgets/list-video/list-video.php:50
+msgid "Video rooms"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:95,
+#: sailing/inc/widgets/list-video/list-video.php:61
+msgid "All video room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:122,
+#: sailing/inc/widgets/list-video/list-video.php:87
+msgid "Video Tour"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:131,
+#: sailing/inc/widgets/feature/feature.php:28,
+#: sailing/inc/widgets/list-html/list-html.php:28,
+#: sailing/inc/widgets/list-video/list-video.php:91
+msgid "Content"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:133,
+#: sailing/inc/widgets/list-video/list-video.php:92
+msgid "Duis aute irure dolor "
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:181,
+#: sailing/elementor-addons/elements/list-video/list-video.php:230,
+#: sailing/inc/widgets/list-video/list-video.php:118,
+#: sailing/inc/widgets/list-video/list-video.php:152
+msgid "Image Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:190,
+#: sailing/elementor-addons/elements/list-video/list-video.php:239,
+#: sailing/elementor-addons/elements/single-images/single-images.php:54
+msgid "Image Size"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:194,
+#: sailing/inc/widgets/list-video/list-video.php:127
+msgid "500 x  255"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:195,
+#: sailing/inc/widgets/list-video/list-video.php:128
+msgid "650 x 340"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:196,
+#: sailing/inc/widgets/list-video/list-video.php:129
+msgid "600 x 310"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:243,
+#: sailing/inc/widgets/list-video/list-video.php:161
+msgid "400 x  230"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:244,
+#: sailing/inc/widgets/list-video/list-video.php:162
+msgid "490 x 280"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:245,
+#: sailing/inc/widgets/list-video/list-video.php:163
+msgid "680 x 380"
+msgstr ""
+
+#: sailing/elementor-addons/elements/list-video/list-video.php:268
+msgid "Add and display up to 3 elements only"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:17
+msgid "Thim: Main Slider"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:36
+msgid "Main Slider Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:43,
+#: sailing/elementor-addons/elements/video/video.php:120
+msgid "Select Background Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:77,
+#: sailing/inc/widgets/main-slider/main-slider.php:35
+msgid "Explorer"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:83,
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:85,
+#: sailing/inc/widgets/list-video/list-video.php:70
+msgid " Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:93
+msgid " Auto Play"
+msgstr ""
+
+#: sailing/elementor-addons/elements/main-slider/main-slider.php:102,
+#: sailing/inc/widgets/main-slider/main-slider.php:49
+msgid " Auto Speed"
+msgstr ""
+
+#: sailing/elementor-addons/elements/mini-cart-room/mini-cart-room.php:17,
+#: sailing/inc/widgets/mini-cart-room/mini-cart-room.php:7
+msgid "Thim: Mini Cart Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/mini-cart-room/mini-cart-room.php:36
+msgid "Mini Cart Room Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/search-room/search-room.php:18,
+#: sailing/inc/widgets/search-room/search-room.php:7
+msgid "Thim: Search Room"
+msgstr ""
+
+#: sailing/elementor-addons/elements/search-room/search-room.php:37
+msgid "Search Room Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/search-room/search-room.php:96
+msgid "Show Child"
+msgstr ""
+
+#: sailing/elementor-addons/elements/search-room/search-room.php:108
+msgid "Use MultiDate "
+msgstr ""
+
+#: sailing/elementor-addons/elements/shortcode/shortcode.php:17
+msgid "Thim: Shortcode Title"
+msgstr ""
+
+#: sailing/elementor-addons/elements/shortcode/shortcode.php:36
+msgid "Shortcode Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:17
+msgid "Thim: Single Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:36
+msgid "Single Image Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:56,
+#: sailing/inc/widgets/box/box.php:82,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:40,
+#: sailing/inc/widgets/single-images/single-images.php:25
+msgid "Image size"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:57
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:80
+msgid "Image Alignment"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:83,
+#: sailing/inc/widgets/single-images/single-images.php:46
+msgid "Align Left"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:84,
+#: sailing/inc/widgets/single-images/single-images.php:47
+msgid "Align Right"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-images/single-images.php:85,
+#: sailing/inc/widgets/single-images/single-images.php:48
+msgid "Align Center"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:17,
+#: sailing/inc/widgets/single-post/single-post.php:7
+msgid "Thim: Single Post"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:35
+msgid "Single Post Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:64
+msgid "Title Position"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:78,
+#: sailing/inc/widgets/single-post/single-post.php:35
+msgid "Show  Background Color"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:95
+msgid "Show Text Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:136
+msgid "Post  ID"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:138
+msgid "Enter only 1 post ID"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:146
+msgid "Content Position"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:160,
+#: sailing/inc/widgets/single-post/single-post.php:115
+msgid "Show  Post Link"
+msgstr ""
+
+#: sailing/elementor-addons/elements/single-post/single-post.php:176,
+#: sailing/inc/widgets/single-post/single-post.php:78,
+#: sailing/inc/widgets/single-post/single-post.php:134
+msgid "Discover now"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:17
+msgid "Thim: Social"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:36
+msgid "Social Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:53,
+#: sailing/inc/widgets/social/social.php:25
+msgid "Version"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:56
+msgid "Old"
+msgstr "Cũ"
+
+#: sailing/elementor-addons/elements/social/social.php:57,
+#: sailing/inc/widgets/social/social.php:28
+msgid "New"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:66,
+#: sailing/elementor-addons/elements/social/social.php:68
+msgid "Enter Link Facebook"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:79,
+#: sailing/elementor-addons/elements/social/social.php:81
+msgid "Enter Link Twitter"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:92,
+#: sailing/elementor-addons/elements/social/social.php:94
+msgid "Enter Link Google"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:105,
+#: sailing/elementor-addons/elements/social/social.php:107
+msgid "Enter Link Dribble"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:118,
+#: sailing/elementor-addons/elements/social/social.php:120
+msgid "Enter Link Linkedin"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:131,
+#: sailing/elementor-addons/elements/social/social.php:133
+msgid "Enter Link Pinterest"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:144,
+#: sailing/elementor-addons/elements/social/social.php:146
+msgid "Enter Link Digg"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:157,
+#: sailing/elementor-addons/elements/social/social.php:159
+msgid "Enter Link Youtube"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:170,
+#: sailing/elementor-addons/elements/social/social.php:172
+msgid "Enter Link Instagram"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:196
+msgid "Rel Attribute"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:200
+msgid "Nofollow"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:211,
+#: sailing/inc/widgets/social/social.php:130
+msgid "Social Name"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:214,
+#: sailing/inc/widgets/social/social.php:132
+msgid "Foursquare"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:215,
+#: sailing/inc/widgets/social/social.php:133
+msgid "Tripadvisor"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:216,
+#: sailing/inc/widgets/social/social.php:134
+msgid "Yelp"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:219,
+#: sailing/inc/widgets/social/social.php:137
+msgid "Instagram"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:222,
+#: sailing/inc/widgets/social/social.php:140
+msgid "Youtube"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:223,
+#: sailing/inc/widgets/social/social.php:141
+msgid "Flickr"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:224,
+#: sailing/inc/widgets/social/social.php:142
+msgid "Digg"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:225,
+#: sailing/inc/widgets/social/social.php:143
+msgid "Skype"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:226,
+#: sailing/inc/widgets/social/social.php:144
+msgid "Vimeo"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:227,
+#: sailing/inc/widgets/social/social.php:145
+msgid "Tumblr"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:228,
+#: sailing/inc/widgets/social/social.php:146
+msgid "Linkedin"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:229,
+#: sailing/inc/widgets/social/social.php:147
+msgid "Dribble"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:230,
+#: sailing/inc/widgets/social/social.php:148
+msgid "Map Marker"
+msgstr ""
+
+#: sailing/elementor-addons/elements/social/social.php:239,
+#: sailing/elementor-addons/elements/social/social.php:241,
+#: sailing/inc/widgets/social/social.php:154
+msgid "Social URL"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:17,
+#: sailing/inc/widgets/testimonials/testimonials.php:7
+msgid "Thim: Testimonials"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:36
+msgid "Testimonials Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:43
+msgid "Select Style Testimonial"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:76,
+#: sailing/inc/widgets/testimonials/testimonials.php:51
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:89,
+#: sailing/inc/widgets/testimonials/testimonials.php:65
+msgid "testimonial"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:108
+msgid "Number Column"
+msgstr ""
+
+#: sailing/elementor-addons/elements/testimonials/testimonials.php:121,
+#: sailing/inc/widgets/testimonials/testimonials.php:97
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tour.php:17
+msgid "Thim: Tour"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tour.php:36
+msgid "Tour Settings"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tour.php:69
+msgid "Add your link here"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tour.php:78,
+#: sailing/elementor-addons/elements/tour/tour.php:80,
+#: sailing/inc/widgets/tour/tour.php:37
+msgid "Info Sale"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tour.php:89,
+#: sailing/inc/widgets/tour/tour.php:42
+msgid "Price"
+msgstr "Giá"
+
+#: sailing/elementor-addons/elements/tour/tour.php:91
+msgid "Add your price here"
+msgstr "Thêm giá của bạn ở đây"
+
+#: sailing/elementor-addons/elements/video/video.php:17,
+#: sailing/inc/widgets/video/video.php:9
+msgid "Thim: Video"
+msgstr ""
+
+#: sailing/elementor-addons/elements/video/video.php:93
+msgid "Select Cover Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/video/video.php:107,
+#: sailing/elementor-addons/elements/video/video.php:109,
+#: sailing/inc/widgets/video/video.php:68
+msgid "Video Button"
+msgstr ""
+
+#: sailing/elementor-addons/elements/video/video.php:134
+msgid "Select Logo Image"
+msgstr ""
+
+#: sailing/elementor-addons/elements/video/video.php:148
+msgid "Link Video"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:6,
+#: sailing/inc/admin/customizer-sections/event-archive.php:6,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:8
+msgid "Archive"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:16,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:16,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:16,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:16,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:15,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:18,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:15,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:19,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:15
+msgid ""
+"This page is built by Thim Elementor Kit, you can edit and configure it in "
+"%s."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:16,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:16,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:16,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:16,
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:15,
+#: sailing/inc/admin/customizer-sections/footer-options.php:16,
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:16,
+#: sailing/inc/admin/customizer-sections/header-mobile.php:17,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:17,
+#: sailing/inc/admin/customizer-sections/header-setting.php:15,
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:17,
+#: sailing/inc/admin/customizer-sections/header-submenu.php:17,
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:15,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:18,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:15,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:18,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:17,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:19,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:15
+msgid "Thim Elementor Kit"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:29,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:30,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:31,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:14
+msgid "Archive Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:30
+msgid "Archive layout select."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:48
+msgid "Archive Hide Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:49
+msgid "Archive hiden title setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:53,
+#: sailing/inc/admin/customizer-sections/blog-archive.php:212,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:53,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:53,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:214,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:81,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:100,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:119,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:138,
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:32,
+#: sailing/inc/admin/customizer-sections/footer-options.php:113,
+#: sailing/inc/admin/customizer-sections/general-featured.php:20,
+#: sailing/inc/admin/customizer-sections/general-featured.php:50,
+#: sailing/inc/admin/customizer-sections/general-featured.php:133,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:60,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:21,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:36,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:51,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:66,
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:22,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:35,
+#: sailing/inc/admin/customizer-sections/header-setting.php:52,
+#: sailing/inc/admin/customizer-sections/header-setting.php:77,
+#: sailing/inc/admin/customizer-sections/header-setting.php:200,
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:36,
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:33,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:73,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:226,
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:55,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:36,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:54,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:72,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:33,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:51,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:69,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:87,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:73,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:226,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:244,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:262,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:280,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:46,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:82,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:38,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:57,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:76,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:94,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:51
+msgid "On"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:54,
+#: sailing/inc/admin/customizer-sections/blog-archive.php:213,
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:54,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:54,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:215,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:82,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:101,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:120,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:139,
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:33,
+#: sailing/inc/admin/customizer-sections/footer-options.php:114,
+#: sailing/inc/admin/customizer-sections/general-featured.php:21,
+#: sailing/inc/admin/customizer-sections/general-featured.php:51,
+#: sailing/inc/admin/customizer-sections/general-featured.php:134,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:61,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:22,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:37,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:52,
+#: sailing/inc/admin/customizer-sections/general-sharing.php:67,
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:23,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:36,
+#: sailing/inc/admin/customizer-sections/header-setting.php:53,
+#: sailing/inc/admin/customizer-sections/header-setting.php:78,
+#: sailing/inc/admin/customizer-sections/header-setting.php:201,
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:37,
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:34,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:74,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:227,
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:56,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:37,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:55,
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:73,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:34,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:52,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:70,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:88,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:74,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:227,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:245,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:263,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:281,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:47,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:83,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:39,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:58,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:77,
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:95,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:52
+msgid "Off"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:74
+msgid "Archive Top Image"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:75
+msgid "Select archive top image."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:107
+msgid "Archive Heading Background Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:108
+msgid "Setting archive heading background color."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:137
+msgid "Archive Heading Text Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:138
+msgid "Setting archive heading text color."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:167
+msgid "Archive Sub Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:168
+msgid "Archive sub title setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:188
+msgid "Archive Excerpt Length"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:189
+msgid ""
+"Enter the number of words you want to cut from the content to be the excerpt "
+"of archive page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:207
+msgid "Show Read More"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-archive.php:208
+msgid "Show read more setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:6
+msgid "Blog Page"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:30,
+#: sailing/inc/admin/customizer-sections/blog-setting.php:30
+msgid "Blog page layout setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:49,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:49,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:68,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:68,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:34,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:46
+msgid "Hide Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:50
+msgid "Hide title blog page setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:73,
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:74,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:77,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:135,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:135,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:56,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:71
+msgid "Top Image"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:74,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:78
+msgid "Select top image for blog page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:105,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:107,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:97
+msgid "Heading Background Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:106
+msgid "Setting background color top heading blog page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:135,
+#: sailing/inc/admin/customizer-sections/general-page-title.php:127
+msgid "Heading Text Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:136
+msgid "Setting color top heading blog page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:166
+msgid "Enter blog page custom title."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-frontpage.php:187
+msgid "Enter blog page sub title."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:6
+msgid "Post & Page"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:29
+msgid "Single & Page Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:30
+msgid "Single & Page layout setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:50
+msgid "Hide title setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:75
+msgid "Top image for page and post setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:107
+msgid "Background Heading Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:108
+msgid "Setting heading background color post and page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:137
+msgid "Heading Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:138
+msgid "Setting heading text color setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:168
+msgid "Enter your custom tile page and post."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:188
+msgid "Custom Sub Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:189
+msgid "Enter your custom sub tile page and post."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:210
+msgid "Show Recent Blog"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:211
+msgid "Show Recent Blog."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:227
+msgid "Related Columns"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-postpage.php:228
+msgid "Allow to select column related post."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:6,
+#: sailing/inc/admin/customizer-sections/footer-options.php:6,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:5
+msgid "Setting"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:49,
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:31
+msgid "Grid Columns"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:50
+msgid "Allow to select a column grid."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:76
+msgid "Show Category"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:77
+msgid "Show category setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:95
+msgid "Show Date"
+msgstr "Hiển thị ngày"
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:96
+msgid "Show date setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:114
+msgid "Show Author"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:115
+msgid "Show author setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:133
+msgid "Show Comment"
+msgstr "Hiển thị bình luận"
+
+#: sailing/inc/admin/customizer-sections/blog-setting.php:134
+msgid "Show comment setting."
+msgstr "Hiển thị cài đặt bình luận."
+
+#: sailing/inc/admin/customizer-sections/blog.php:12
+msgid "Blog Setting"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-archive.php:17
+msgid "Archive Event Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-archive.php:18
+msgid "Archive Event layout select."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-archive.php:36
+msgid "Archive Event Layout Style"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-archive.php:37
+msgid "Archive Event layout select style."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-single.php:6,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:8
+msgid "Single"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-single.php:16
+msgid "Single Event Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event-single.php:17
+msgid "Single Event layout select."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/event.php:12
+msgid "Events"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:5,
+#: sailing/inc/widgets/copyright/copyright.php:17
+msgid "Copyright"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:15,
+#: sailing/inc/admin/customizer-sections/footer-options.php:16
+msgid ""
+"This Footer is built by Thim Elementor Kit, you can edit and configure it in "
+"%s."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:27
+msgid "Back To Top"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:28
+msgid "Show or hide back to top"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:46
+msgid "Copyright Text Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:68,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:94,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:95
+msgid "Link Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-copyright.php:69
+msgid "Copyright Link Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:29,
+#: sailing/inc/admin/customizer-sections/footer-options.php:30
+msgid "Footer Background Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:52
+msgid "Background footer images"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:53
+msgid "Upload your background footer."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:67
+msgid "Colors Footer Settings"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:71,
+#: sailing/inc/widgets/button/button.php:17,
+#: sailing/inc/widgets/feature/feature.php:18,
+#: sailing/inc/widgets/feature/feature.php:19,
+#: sailing/inc/widgets/info-sale/info-sale.php:41,
+#: sailing/inc/widgets/info-sale/info-sale.php:42,
+#: sailing/inc/widgets/list-html/list-html.php:18,
+#: sailing/inc/widgets/list-html/list-html.php:19,
+#: sailing/inc/widgets/list-video/list-video.php:81,
+#: sailing/inc/widgets/list-video/list-video.php:82,
+#: sailing/inc/widgets/list-video/list-video.php:113,
+#: sailing/inc/widgets/list-video/list-video.php:114,
+#: sailing/inc/widgets/list-video/list-video.php:147,
+#: sailing/inc/widgets/list-video/list-video.php:148
+msgid "Text"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:73
+msgid "Line"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:108
+msgid "Footer Style New"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer-options.php:109
+msgid "Turn On/Off Footer style new."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/footer.php:12
+msgid "Footer Setting"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:6
+msgid "404"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:16
+msgid "Image 404"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:17
+msgid "Select image file for 404."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:27
+msgid "Custom Text"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:28
+msgid "Enter custom text for 404."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-404.php:30
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr "Xin lỗi, chúng tôi không tìm thấy trang bạn đang tìm kiếm."
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:5
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:15
+msgid "RTL Support"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:16
+msgid "Enable/Disable setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:30
+msgid "Preload Type"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:31
+msgid "Preload type select."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:35
+msgid "CSS 3"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:45
+msgid "Preload Type Css Circle"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:46
+msgid "Select Preload Type Css Circle."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:67
+msgid "Preload Image"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:68
+msgid "Preload image setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:86
+msgid "Preload Background"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:87
+msgid "Preload background color setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:106
+msgid "Enter your ID Google Analytics"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:107
+msgid "Enter your ID Google Analytics."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:118
+msgid "Body Custom Class"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:119
+msgid "Enter body custom class."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:129
+msgid "Border Radius"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:136
+msgid ""
+"Enable border radius in some places (List Room, Button, Shop, Blog .....)"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:144
+msgid "Border Radius Size"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:153
+msgid "Global - Default"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:154
+msgid "Global - Big"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-featured.php:155,
+#: sailing/inc/widgets/button/button.php:9
+msgid "Button"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:9
+msgid "Allows you to add, remove, change logo on your site. "
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:20
+msgid "Sticky Logo"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:21
+msgid "Allows you to add, remove, change sticky logo on your site. "
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:32
+msgid "Mobile Logo"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:33
+msgid "Allows you to add, remove, change mobile logo on your site. "
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:43
+msgid "Logo width"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-logo.php:44
+msgid ""
+"Allows you to assign a value for logo width. Example: 10px, 3em, 48%, 90vh "
+"etc."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:5
+msgid "Page Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:31
+msgid "Choose Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:32
+msgid "Choose Layout."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:55
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:56
+msgid "hiden breadcrumb setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:108
+msgid "Setting background color top heading."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-page-title.php:128
+msgid "Setting color top heading."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:5,
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:5
+msgid "Sharing"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:17
+msgid "Share Facebook"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:18
+msgid "Share on facebook."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:32
+msgid "Share Twitter"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:33
+msgid "Share on twitter."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:47
+msgid "Share Google"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:48
+msgid "Share on Google."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:62
+msgid "Share Pinterest"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-sharing.php:63
+msgid "Share on Pinterest."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:5
+msgid "Color Site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:15
+msgid "Background Site Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:16
+msgid "Setting background site setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:35
+msgid "Primary Color Your Site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:36
+msgid "Setting primary color your site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:133
+msgid "Border Site Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:134
+msgid "Setting border site setting."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:146
+msgid "Button Text Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-color.php:147
+msgid "Allows you to choose a button text color for your site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-layout.php:16
+msgid "Select A Layout Your Site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-layout.php:17
+msgid "Select a layout your site you want."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-layout.php:31
+msgid "Max width container"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-layout.php:32
+msgid ""
+"Allow to assign a value for body width. Example: 10px, 3em, 48%, 90vh, ..."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:6
+msgid "Pattern"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:17
+msgid "Use Background Pattern"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:18
+msgid "Use background pattern if you want."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:32
+msgid "Select Pattern"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:33
+msgid "Allows you to choose a pattern for site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:68
+msgid "Select Image for background site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:78
+msgid "Background Repeat"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:79
+msgid "Select background repeat."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:85
+msgid "repeat"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:86
+msgid "repeat-x"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:87
+msgid "repeat-y"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:88
+msgid "no-repeat"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:97
+msgid "Background Position"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:98
+msgid "Select type background position."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:104
+msgid "Left Top"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:105
+msgid "Left Center"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:106
+msgid "Left Bottom"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:107
+msgid "Right Top"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:108
+msgid "Right Center"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:109
+msgid "Right Bottom"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:110
+msgid "Center Top"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:111
+msgid "Center Center"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:112
+msgid "Center Bottom"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:121
+msgid "Background Attachment"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:122
+msgid "Select background attachment for site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:128
+msgid "scroll"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:129
+msgid "fixed"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:130
+msgid "local"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:131,
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:152,
+#: sailing/inc/widgets/heading/heading.php:128
+msgid "initial"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:132,
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:151,
+#: sailing/inc/widgets/heading/heading.php:127
+msgid "inherit"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:141
+msgid "Background Size"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:142
+msgid "Select background size for site."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:148
+msgid "100% 100%"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:149
+msgid "contain"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-styling-pattern.php:150
+msgid "cover"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:16
+msgid "Headings"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:20
+msgid "Heading Font-Family"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:21
+msgid "Allows you to select font-family for headings (h1, h2, h3, h4, h5, h6)"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:68
+msgid "Heading 1"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:69
+msgid "Allows you to select all font properties of H1 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:99
+msgid "Heading 2"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:100
+msgid "Allows you to select all font properties of H2 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:130
+msgid "Heading 3"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:131
+msgid "Allows you to select all font properties of H3 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:161
+msgid "Heading 4"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:162
+msgid "Allows you to select all font properties of H4 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:192
+msgid "Heading 5"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:193
+msgid "Allows you to select all font properties of H5 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:223
+msgid "Heading 6"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography-heading.php:224
+msgid "Allows you to select all font properties of H6 tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:13
+msgid "Typography"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:25
+msgid "Body"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:29
+msgid "Body Font"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:30
+msgid "Allows you to select all font properties of body tag for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:79
+msgid "Button Typography"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general-typography.php:80
+msgid "Allows you to select all font properties of button for your site"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/general.php:12
+msgid "General"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:6
+msgid "Main Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:16,
+#: sailing/inc/admin/customizer-sections/header-mobile.php:17,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:17,
+#: sailing/inc/admin/customizer-sections/header-setting.php:15,
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:17,
+#: sailing/inc/admin/customizer-sections/header-submenu.php:17,
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:15
+msgid ""
+"This header is built by Thim Elementor Kit, you can edit and configure it in "
+"%s."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:30
+msgid "Pick a background color for main menu. It is working only header 2."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:53
+msgid "Pick a text color for main menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:77,
+#: sailing/inc/admin/customizer-sections/header-mobile.php:100
+msgid "Text Hover color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:78
+msgid "Pick a text hover color for main menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:104
+msgid "Fonts Main Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mainmenu.php:105
+msgid "Allows you to select all font font properties for main menu. "
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:7
+msgid "Mobile Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:30
+msgid "Color Mobile Menu Icon"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:53
+msgid "Background color mobile menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:54
+msgid "Pick a background color for mobile menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:77
+msgid "Pick a text color for mobile menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-mobile.php:101
+msgid "Pick a text hover color for mobile menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:30,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:31
+msgid "Show Offcanvas"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:117,
+#: sailing/inc/admin/customizer-sections/header-offcanvas.php:118,
+#: sailing/inc/widgets/counters-box/counters-box.php:30
+msgid "Icon"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:5
+msgid "Header"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:28
+msgid "Select a Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:29
+msgid "Select a Layout for header"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:47
+msgid " Full Width"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:48
+msgid "Turn On/Off full width header."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:72
+msgid "Header Overlay"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:73
+msgid "Turn On/Off header overlay."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:90,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:161,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:161
+msgid "Header Background"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:91,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:162,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:192,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:162,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:192
+msgid "Background color for header."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:113
+msgid "Header Text Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:114
+msgid "Text color for header version 2."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:136
+msgid "Header Color Hover"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:137
+msgid "Header color hover for header version 2."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:159
+msgid "Fonts"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:160
+msgid "Allows you to select all font font properties for header. "
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:195
+msgid "Header Search Display"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-setting.php:196
+msgid "Turn On/Off header search display."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:7
+msgid "Sticky Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:30
+msgid "Menu Sticky"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:31
+msgid "Turn On/Off menu sticky when up scroll mouse."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:49
+msgid "Config Sticky Menu?"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:53
+msgid "The same with main menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:67
+msgid "Header Sticky Background"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:68
+msgid "Background color for menu sticky."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:91
+msgid "Header Text/Link Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:92
+msgid "Header text color for menu sticky."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:117
+msgid "Header Text/Link Color Hover"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-stickymenu.php:118
+msgid "Header text color for menu sticky hover."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:7
+msgid "Sub Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:30
+msgid "Header Background Sub Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:31
+msgid "Background color for sub menu."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:54
+msgid "Color Border Bottom"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:55
+msgid "Color Border Bottom for sub menu."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:78
+msgid "Text/Link Color Sub Menu"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:79
+msgid "Text color for sub menu."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:104
+msgid "Text/Link Sub Menu Color Hover"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-submenu.php:105
+msgid "Text color for sub menu hover."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:28
+msgid "Show Toolbar"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:29
+msgid "Turn On toolbar header."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:45
+msgid "Font size"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:46
+msgid "Input font size toolbar."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:70
+msgid "Toolbar color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:71
+msgid "Color for toolbar header no sticky."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:93
+msgid "Toolbar color hover"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header-toolbar.php:94
+msgid "Color hover for toolbar header no sticky."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/header.php:12
+msgid "Header Settings"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:50
+msgid "Style Rooms"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:51
+msgid "Select Style Rooms."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:69,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:69,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:35,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:47
+msgid "Hide/show title."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:93,
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:94,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:94
+msgid "Hotel Booking Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:136,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:136
+msgid "Select Image top header for our team page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:191,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:191,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:106,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:127
+msgid "Text Color Heading"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:221
+msgid "Enable Sort"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-archive.php:222
+msgid "Enable/Disable Sort."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:8
+msgid "Search Page"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:30,
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:31
+msgid "Search Page Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:50
+msgid "Show Filter"
+msgstr "Hiển thị bộ lọc"
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-search-page.php:51
+msgid "Show filter on search page"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:8,
+#: sailing/inc/widgets/google-map/google-map.php:87
+msgid "Settings"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:31
+msgid "Show Children"
+msgstr "Hiển thị trẻ em"
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:32
+msgid "Show children if is On."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:49
+msgid "Show Adults"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:50
+msgid "Show adults if is On."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:67
+msgid "Show More Info Room"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-setting.php:68
+msgid "Show More Info Room get from Excerpt room."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:29
+msgid "Show the facebook sharing option in hotel."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:47
+msgid "Show the Twitter sharing option in hotel."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:65
+msgid "Show the Google sharing option in hotel."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-share.php:83
+msgid "Show the Pinterest sharing option in hotel."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:30,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:31
+msgid "Single Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:49
+msgid "Single Style Content"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:50
+msgid "Allow to choose a Style to display for all single post pages."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:96
+msgid "Sailing Hotel"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:221
+msgid "Hide Description"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:222
+msgid "Hide/show Description."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:239
+msgid "Hide Additional Information"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:240
+msgid "Hide/show Additional Information."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:257
+msgid "Hide Reviews"
+msgstr "Ẩn đánh giá"
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:258
+msgid "Hide/show Reviews."
+msgstr "Ẩn/hiện đánh giá"
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:275
+msgid "Show book email"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:276
+msgid "Hide/show book email."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:293,
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:294
+msgid "Contact Form 7 Shortcode ID"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:307
+msgid "Top Content Background"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:308
+msgid "Background color for content top single room."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:330
+msgid "Top Content Color"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/hotelbooking-single.php:331
+msgid "Color for content top single room."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:57
+msgid "Select Image top header for shop page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:79
+msgid "Top Background"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:80,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:107,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:128
+msgid "Background color for heading."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:133
+msgid "Type Pagination"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:134
+msgid "Select Type Pagination."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:148,
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:149,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:157,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:158
+msgid "Product Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:166,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:178,
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:179
+msgid "Product Sub Title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-archive.php:167
+msgid "Product sub title"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:32
+msgid "Choose the number grid columns for product."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:41
+msgid "5"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:42
+msgid "6"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:55
+msgid "Products Per Page"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:56
+msgid "Choose the number of products per page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:76
+msgid "Show Quick View"
+msgstr "Hiển thị Xem nhanh"
+
+#: sailing/inc/admin/customizer-sections/woocommerce-setting.php:77
+msgid "Allows you to enable or disable quick view."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:11
+msgid "Sharing Product"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:32
+msgid "Hidden Facebook"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:33
+msgid "Show the facebook sharing option in product."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:51
+msgid "Hidden Twitter"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:52
+msgid "Show the Twitter sharing option in product."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:70
+msgid "Hidden Google"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:71
+msgid "Show the Google sharing option in product."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:88
+msgid "Hidden Pinterest"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-sharing.php:89
+msgid "Show the Pinterest sharing option in product."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:6
+msgid "Single Product"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:27
+msgid "Single Product Layout"
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:72
+msgid "Select Image top header for single shop page."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce-single.php:98
+msgid "Heading background color."
+msgstr ""
+
+#: sailing/inc/admin/customizer-sections/woocommerce.php:11
+msgid "WooCommerce"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:446
+msgid "%s Theme notice!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:448
+msgid ""
+"Installed the theme successfully. <a href=\"%s\">Enable Thim Core to start "
+"now!</a>"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:525,
+#: sailing/inc/admin/installer/installer.php:695
+msgid "Thim Core Installer"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:697
+msgid "Please follow the instructions below. Thanks for choosing %s theme!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:712
+msgid "Your site have already installed Thim Core!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:714
+msgid ""
+"<button data-href=\"%s\" class=\"thim-button-link button button-primary\">"
+"Return to Dashboard</button>"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:736
+msgid "Install and activate"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:760
+msgid "Installing Thim Core"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:768
+msgid "Activating Thim Core"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:770
+msgid "Activating..."
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:792
+msgid "Activating Thim Core successfully!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:794
+msgid "You are redirecting to %s theme dashboard..."
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:806
+msgid "Activating Thim Core failed!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:808
+msgid "Something went wrong!"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:810
+msgid "Activate again"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:840
+msgid "Configuration Check"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:846
+msgid "Server Info"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:851
+msgid "PHP Version"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:855
+msgid "%1$s - We recommend a minimum PHP version of 5.6. See: %2$s"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:855
+msgid "How to update your PHP version"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:864
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:868
+msgid ""
+"<strong>%s</strong> - We recommend setting memory to at least <strong>"
+"128MB</strong>. To learn how, see: <a href=\"%s\" target=\"_blank\">"
+"Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:877
+msgid "cURL version"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:882
+msgid "Remote GET"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:887
+msgid "wp_remote_get() failed. Please contact your hosting provider."
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:893
+msgid "Plugins directory"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:901
+msgid "Plugins directory writable"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:914
+msgid ""
+"Please follow those instructions above to make sure your server is ready to "
+"use %s theme. If you need assistance, please get our support <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:934
+msgid "Thim Core Installer &lsaquo; %s"
+msgstr ""
+
+#: sailing/inc/admin/installer/installer.php:954
+msgid "&copy; ThimPress 2018. All rights reserved. Powered by WordPress."
+msgstr ""
+
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:392,
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:392,
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:440,
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:440
+msgid "Remove"
+msgstr ""
+
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:405,
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:405
+msgid "Add"
+msgstr ""
+
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:761
+msgid "Upload Image"
+msgstr ""
+
+#: sailing/inc/libs/Tax-meta-class/Tax-meta-class.php:759
+msgid "Remove Image"
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:9
+msgid "Add image to box"
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:17
+msgid "Style box image"
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:23,
+#: sailing/inc/widgets/gallery-images/gallery-images.php:25
+msgid "Select style Box image."
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:60, /sailing/inc/widgets/box/box.php:69,
+#: sailing/inc/widgets/heading/heading.php:33,
+#: sailing/inc/widgets/heading/heading.php:42,
+#: sailing/inc/widgets/heading/heading.php:159,
+#: sailing/inc/widgets/shortcode/shortcode.php:19
+msgid "Default value"
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:83,
+#: sailing/inc/widgets/single-images/single-images.php:26
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: sailing/inc/widgets/box/box.php:88,
+#: sailing/inc/widgets/single-images/single-images.php:31
+msgid "Enter URL if you want this image to have a link."
+msgstr ""
+
+#: sailing/inc/widgets/button/button.php:30
+msgid "New Window"
+msgstr ""
+
+#: sailing/inc/widgets/button/button.php:31
+msgid "This Window"
+msgstr ""
+
+#: sailing/inc/widgets/button/button.php:55
+msgid "Button Color"
+msgstr ""
+
+#: sailing/inc/widgets/column-post/column-post.php:13
+msgid "Thim: Post Column"
+msgstr ""
+
+#: sailing/inc/widgets/column-post/column-post.php:15
+msgid "Show Post Column"
+msgstr ""
+
+#: sailing/inc/widgets/column-post/column-post.php:23,
+#: sailing/inc/widgets/list-post/list-post.php:83
+msgid "Select Categories"
+msgstr ""
+
+#: sailing/inc/widgets/column-post/column-post.php:34
+msgid "Column"
+msgstr ""
+
+#: sailing/inc/widgets/column-post/column-post.php:43,
+#: sailing/inc/widgets/column-post/column-post.php:53,
+#: sailing/inc/widgets/list-post/list-post.php:116,
+#: sailing/inc/widgets/list-post/list-post.php:126
+msgid "Order by"
+msgstr ""
+
+#: sailing/inc/widgets/counters-box/counters-box.php:10
+msgid "Counters Box"
+msgstr ""
+
+#: sailing/inc/widgets/counters-box/counters-box.php:19
+msgid "Counters label"
+msgstr ""
+
+#: sailing/inc/widgets/counters-box/counters-box.php:34
+msgid "Border Color Icon"
+msgstr ""
+
+#: sailing/inc/widgets/counters-box/counters-box.php:39
+msgid "Counters Box Icon"
+msgstr ""
+
+#: sailing/inc/widgets/empty-space/empty-space.php:8
+msgid "Thim: Empty Space"
+msgstr ""
+
+#: sailing/inc/widgets/empty-space/empty-space.php:10
+msgid "Add space width custom height"
+msgstr ""
+
+#: sailing/inc/widgets/empty-space/empty-space.php:18,
+#: sailing/inc/widgets/google-map/google-map.php:95
+msgid "Height"
+msgstr ""
+
+#: sailing/inc/widgets/empty-space/empty-space.php:20
+msgid "Enter empty space height."
+msgstr ""
+
+#: sailing/inc/widgets/feature/feature.php:8
+msgid "Thim: Feature"
+msgstr ""
+
+#: sailing/inc/widgets/feature/feature.php:10
+msgid "Add Feature html"
+msgstr ""
+
+#: sailing/inc/widgets/gallery/gallery.php:9
+msgid "Thim: Filter Gallery "
+msgstr ""
+
+#: sailing/inc/widgets/gallery/gallery.php:11
+msgid "gallery"
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:9
+msgid "Thim: Gallery Images"
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:11
+msgid "Add gallery image"
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:19
+msgid "Style image gallery"
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:41
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\""
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:58
+msgid "Text show"
+msgstr ""
+
+#: sailing/inc/widgets/gallery-images/gallery-images.php:59
+msgid " Voted \"Top 100 Hotels in the World 2017\" by Travel & Leisure"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:9
+msgid "A Google Maps widget."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:34
+msgid "Get Map By"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:76
+msgid "Map center"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:77
+msgid ""
+"The name of a place, town, city, or even a country. Can be an exact address "
+"too."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:89
+msgid "Set map display options."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:99
+msgid "Zoom level"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:100
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr "Giá trị từ 0 (thế giới) đến 21 (cấp đường phố)."
+
+#: sailing/inc/widgets/google-map/google-map.php:111
+msgid "Scroll to zoom"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:112
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:123
+msgid "Allow dragging the map to move it around."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:135
+msgid "Use markers to identify points of interest on the map."
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:154
+msgid "Marker positions"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:155
+msgid "Marker"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:168
+msgid "Google map API"
+msgstr ""
+
+#: sailing/inc/widgets/google-map/google-map.php:169
+msgid ""
+"Enter API google map of you or create new API: https://developers.google."
+"com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:9,
+#: sailing/inc/widgets/single-images/single-images.php:11
+msgid "Add heading text"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:18
+msgid "Style heading"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:24
+msgid "Select style heading."
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:41,
+#: sailing/inc/widgets/testimonials/testimonials.php:35
+msgid "Heading Text"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:54
+msgid "Text Heading color"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:65,
+#: sailing/inc/widgets/icon-box/icon-box.php:36
+msgid "h2"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:66,
+#: sailing/inc/widgets/icon-box/icon-box.php:37
+msgid "h3"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:67,
+#: sailing/inc/widgets/icon-box/icon-box.php:38
+msgid "h4"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:68,
+#: sailing/inc/widgets/icon-box/icon-box.php:39
+msgid "h5"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:69,
+#: sailing/inc/widgets/icon-box/icon-box.php:40
+msgid "h6"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:75,
+#: sailing/inc/widgets/icon-box/icon-box.php:46
+msgid "Font Heading"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:81,
+#: sailing/inc/widgets/icon-box/icon-box.php:51
+msgid "Select Font heading."
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:101,
+#: sailing/inc/widgets/icon-box/icon-box.php:71,
+#: sailing/inc/widgets/icon-box/icon-box.php:125
+msgid "custom font size"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:120,
+#: sailing/inc/widgets/icon-box/icon-box.php:91,
+#: sailing/inc/widgets/icon-box/icon-box.php:145
+msgid "Select Custom Font Weight"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:129
+msgid "italic"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:130
+msgid "normal"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:131
+msgid "oblique"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:133
+msgid "Select Custom Font Style"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:158
+msgid "Description Text"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:168
+msgid "Show button heading"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:174
+msgid "Show button for heading."
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:195
+msgid "Link Button Heading"
+msgstr ""
+
+#: sailing/inc/widgets/heading/heading.php:204
+msgid "Link Target Button"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:17
+msgid "Hotel Room Slider"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:25
+msgid "Style Layout Room"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:39
+msgid "Show Room By"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:69
+msgid "Room ID list"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:81,
+#: sailing/inc/widgets/tour/tour.php:50
+msgid "Number of items"
+msgstr "Số lượng phòng"
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:97
+msgid "Show text all room"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:103
+msgid "Show text all for room."
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:117
+msgid "Link To Room"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:118
+msgid "Add link you want."
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:127
+msgid "Text Link All Room"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:128
+msgid "Text Link All Room."
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:150
+msgid "Show pagination"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/hotel-room.php:162
+msgid "Show navigation"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:9
+msgid "Add icon box"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:17
+msgid "Title Options"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:24
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:42
+msgid "Select size heading."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:59
+msgid "Custom Heading Option"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:96
+msgid "Margin Bottom Value"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:117
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:156
+msgid "Link Icon Box"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:162
+msgid "Add Link"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:163
+msgid "Provide the link that will be applied to this icon box."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:168
+msgid "Apply link to:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:174
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:183
+msgid "Option Button Read More"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:195
+msgid "Customize the read more text."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:200
+msgid "Text Color Read More"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:201,
+#: sailing/inc/widgets/icon-box/icon-box.php:221
+msgid "Select whether to use text color for Read More Text or default."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:206
+msgid "Border Color Read More Text:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:207
+msgid "Select whether to use border color for Read More Text or none."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:213
+msgid "Background Color Read More Text:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:214
+msgid "Select whether to use background color for Read More Text or default."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:220
+msgid "Text Hover Color Read More"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:227
+msgid "Background Hover Color Read More Text:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:228
+msgid ""
+"Select whether to use background color when hover Read More Text or default."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:240
+msgid "Icon to display:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:254
+msgid "Font 7 Stroke Icon"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:266,
+#: sailing/inc/widgets/icon-box/icon-box.php:295
+msgid "Select the icon from the list."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:273,
+#: sailing/inc/widgets/icon-box/icon-box.php:302
+msgid "Icon Font Size "
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:276,
+#: sailing/inc/widgets/icon-box/icon-box.php:305
+msgid "Select the icon font size."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:323
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:324
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:339
+msgid "Color Options"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:346
+msgid "Select Icon Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:347
+msgid "Select the icon color."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:351
+msgid "Icon Border Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:352
+msgid "Select the color for icon border."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:357
+msgid "Icon Background Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:358
+msgid "Select the color for icon background."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:363
+msgid "Hover Icon Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:364
+msgid "Select the color hover for icon."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:369
+msgid "Hover Icon Border Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:370
+msgid "Select the color hover for icon border."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:376
+msgid "Hover Icon Background Color:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:377
+msgid "Select the color hover for icon background ."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:384
+msgid "Layout Options"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:390
+msgid "Icon Shape"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:400
+msgid "Box Style:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:407
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:412
+msgid "Text Align Shortcode:"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:438
+msgid "Select video"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:449,
+#: sailing/inc/widgets/video/video.php:57
+msgid "Select cover image"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:460
+msgid "Video Background Options"
+msgstr ""
+
+#: sailing/inc/widgets/icon-box/icon-box.php:480
+msgid "Auto Hidden"
+msgstr ""
+
+#: sailing/inc/widgets/info-sale/info-sale.php:10
+msgid "Add info sale"
+msgstr ""
+
+#: sailing/inc/widgets/info-sale/info-sale.php:18,
+#: sailing/inc/widgets/testimonials/testimonials.php:18
+msgid "Style testimonial"
+msgstr ""
+
+#: sailing/inc/widgets/info-sale/info-sale.php:21
+msgid "Default Style"
+msgstr ""
+
+#: sailing/inc/widgets/list-html/list-html.php:8
+msgid "Thim: List Html Two Columns"
+msgstr ""
+
+#: sailing/inc/widgets/list-html/list-html.php:10
+msgid "Add html"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:19
+msgid "Thim: List Posts"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:21
+msgid "Show Post"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:46,
+#: sailing/inc/widgets/single-post/single-post.php:31
+msgid "From Blog"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:51,
+#: sailing/inc/widgets/single-post/single-post.php:88
+msgid "Position title"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:71
+msgid "Lastest New"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/list-post.php:89
+msgid "Select Image Size"
+msgstr ""
+
+#: sailing/inc/widgets/list-video/list-video.php:11
+msgid "List video player widget."
+msgstr ""
+
+#: sailing/inc/widgets/list-video/list-video.php:49,
+#: sailing/inc/widgets/list-video/list-video.php:86
+msgid " Title"
+msgstr ""
+
+#: sailing/inc/widgets/list-video/list-video.php:97
+msgid "Play now"
+msgstr ""
+
+#: sailing/inc/widgets/main-slider/main-slider.php:9
+msgid "Thim: Main SLider"
+msgstr ""
+
+#: sailing/inc/widgets/main-slider/main-slider.php:11
+msgid "Show main slider widget."
+msgstr ""
+
+#: sailing/inc/widgets/main-slider/main-slider.php:19,
+#: sailing/inc/widgets/video/video.php:77
+msgid "Select background image"
+msgstr ""
+
+#: sailing/inc/widgets/mini-cart-room/mini-cart-room.php:9
+msgid "Show mini cart room widget"
+msgstr ""
+
+#: sailing/inc/widgets/mini-cart-room/mini-cart-room.php:19
+msgid "Your Book"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:9
+msgid "Show search room widget"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:18
+msgid "Style Search Form"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:24
+msgid "Select style search form."
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:33
+msgid "Your Reservation"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:51
+msgid "Select background image for widget"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/search-room.php:60
+msgid "Show Child On Search New Demo 8"
+msgstr ""
+
+#: sailing/inc/widgets/shortcode/shortcode.php:7
+msgid "Thim: Shortcode"
+msgstr ""
+
+#: sailing/inc/widgets/shortcode/shortcode.php:9
+msgid "Add Shortcode"
+msgstr ""
+
+#: sailing/inc/widgets/shortcode/shortcode.php:23
+msgid "Shortcode"
+msgstr ""
+
+#: sailing/inc/widgets/single-images/single-images.php:9
+msgid "Thim: Single Images"
+msgstr ""
+
+#: sailing/inc/widgets/single-images/single-images.php:43
+msgid "Image alignment"
+msgstr ""
+
+#: sailing/inc/widgets/single-post/single-post.php:9
+msgid "Show Single Post"
+msgstr ""
+
+#: sailing/inc/widgets/single-post/single-post.php:49
+msgid "Show  Text Link"
+msgstr ""
+
+#: sailing/inc/widgets/single-post/single-post.php:100
+msgid "Post ID"
+msgstr ""
+
+#: sailing/inc/widgets/single-post/single-post.php:104
+msgid "Content position"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:9
+msgid "Thim: Social Links"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:11
+msgid "Social Links"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:27
+msgid "old"
+msgstr "cũ"
+
+#: sailing/inc/widgets/social/social.php:39
+msgid "Facebook Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:48
+msgid "Twitter Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:57
+msgid "Google Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:66
+msgid "Dribble Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:75
+msgid "Linked in Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:84
+msgid "Pinterest Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:93
+msgid "Digg Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:102
+msgid "Youtube Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:111
+msgid "Instagram Url"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:120
+msgid "Social List"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:121
+msgid "Social"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:170
+msgid "rel Attribute"
+msgstr ""
+
+#: sailing/inc/widgets/social/social.php:173
+msgid "nofollow"
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:9
+msgid "Testimonial ThimPress."
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:36
+msgid "Testimonials"
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:50
+msgid "Description "
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:64
+msgid "Background Title "
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:78
+msgid "Number Posts"
+msgstr ""
+
+#: sailing/inc/widgets/testimonials/testimonials.php:83
+msgid "Number Colums"
+msgstr ""
+
+#: sailing/inc/widgets/tour/tour.php:7
+msgid "Thim: Tours Slider"
+msgstr ""
+
+#: sailing/inc/widgets/tour/tour.php:9
+msgid "Add Tour Slider"
+msgstr ""
+
+#: sailing/inc/widgets/tour/tour.php:17, /sailing/inc/widgets/tour/tour.php:18
+msgid "Tours"
+msgstr ""
+
+#: sailing/inc/widgets/tour/tour.php:43
+msgid "Price and Currency symbol per night"
+msgstr "Biểu tượng giá và tiền tệ mỗi đêm"
+
+#: sailing/inc/widgets/video/video.php:11
+msgid "A video player widget."
+msgstr ""
+
+#: sailing/inc/widgets/video/video.php:88
+msgid "Select logo image"
+msgstr ""
+
+#: sailing/inc/widgets/video/video.php:100
+msgid "Video URL"
+msgstr ""
+
+#: sailing/inc/widgets/video/video.php:101
+msgid ""
+"Use embed link for Youtube link or Vimeo. Ex: https://www.youtube."
+"com/embed/***, https://www.youtube.com/watch?v=***"
+msgstr ""
+
+#: sailing/woocommerce/single-product/tabs/description.php:22
+msgid "Product Description"
+msgstr ""
+
+#: sailing/elementor-addons/elements/tour/tpl/base.php:28,
+#: sailing/inc/widgets/hotel-room/tpl/style_02.php:116,
+#: sailing/inc/widgets/hotel-room/tpl/style_02.php:113,
+#: sailing/inc/widgets/hotel-room/tpl/style_02.php:110,
+#: sailing/inc/widgets/tour/tpl/base.php:27
+msgid "per night"
+msgstr "mỗi đêm"
+
+#: sailing/inc/admin/installer/core/class-thim-plugin.php:407
+msgid "Active"
+msgstr ""
+
+#: sailing/inc/admin/installer/core/class-thim-plugin.php:408
+msgid "Inactive"
+msgstr ""
+
+#: sailing/inc/admin/installer/core/class-thim-plugin.php:409
+msgid "Not Installed"
+msgstr ""
+
+#: sailing/inc/widgets/hotel-room/tpl/style_02.php:150
+msgid "See Room"
+msgstr ""
+
+#: sailing/inc/widgets/info-sale/tpl/base.php:23,
+#: sailing/inc/widgets/video/tpl/style-1.php:14,
+#: sailing/inc/widgets/video/tpl/style-1.php:19
+msgid "IMG"
+msgstr ""
+
+#: sailing/inc/widgets/list-post/tpl/slider-1.php:67,
+#: sailing/inc/widgets/list-post/tpl/slider-2.php:60,
+#: sailing/inc/widgets/single-post/tpl/base.php:53
+msgid "By "
+msgstr ""
+
+#: sailing/inc/widgets/search-room/tpl/default.php:53
+msgid "Check-In"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/tpl/default.php:62
+msgid "Check-Out"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/tpl/default.php:71
+msgid "Guests"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/tpl/default.php:128
+msgid "Check"
+msgstr ""
+
+#: sailing/inc/widgets/search-room/tpl/default.php:128
+msgid "Availability"
+msgstr ""
+
+#: sailing/inc/widgets/video/tpl/default.php:18
+msgid "Watch the video"
+msgstr ""
